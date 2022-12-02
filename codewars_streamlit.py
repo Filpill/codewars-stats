@@ -1,10 +1,7 @@
-import s3fs
 import streamlit as st
 import pandas as pd
-import numpy as np
-from datetime import date
 import altair as alt
-import matplotlib.pyplot as plt
+from datetime import date
 
 st.title('Codewars Stats - Filpill')
 # @st.cache(allow_output_mutation=True)
