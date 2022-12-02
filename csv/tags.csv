@@ -1,35 +1,38 @@
 ,Tags,Count
 0,ASCII Art,1
-31,Statistics,1
-25,Permutations,1
-24,Performance,1
-23,Parsing,1
-18,JSON,1
-15,Functional Programming,1
-14,Filtering,1
-13,Dynamic Programming,1
-12,Debugging,1
-33,Tutorials,1
+34,Statistics,1
+31,Restricted,1
+27,Permutations,1
+25,Parsing,1
+20,JSON,1
+16,Functional Programming,1
+14,Dynamic Programming,1
+13,Debugging,1
+18,Games,1
+36,Tutorials,1
 1,Algebra,1
+8,Cryptography,1
 7,Ciphers,1
 6,Bits,1
-4,Big Integers,1
 5,Binary,1
-11,Date Time,2
-27,Refactoring,2
-20,Logic,2
-22,Number Theory,2
-17,Geometry,2
-9,Data Structures,2
-26,Puzzles,3
-30,Sorting,4
-8,Data Science,11
-28,Regular Expressions,11
-19,Lists,11
-10,Databases,29
-21,Mathematics,36
-3,Arrays,44
-2,Algorithms,50
-32,Strings,72
-29,SQL,86
-16,Fundamentals,258
+4,Big Integers,1
+12,Date Time,2
+15,Filtering,2
+29,Refactoring,2
+26,Performance,2
+19,Geometry,2
+24,Number Theory,2
+10,Data Structures,3
+22,Logic,4
+28,Puzzles,5
+33,Sorting,5
+9,Data Science,11
+21,Lists,12
+30,Regular Expressions,15
+11,Databases,29
+23,Mathematics,40
+3,Arrays,54
+2,Algorithms,63
+35,Strings,82
+32,SQL,86
+17,Fundamentals,284
