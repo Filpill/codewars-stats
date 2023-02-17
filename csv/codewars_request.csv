@@ -1,351 +1,411 @@
 ,Kata ID,Kata Name,Languages,Completed Date,Completion Period,Category,Total Attempts,Total Completed,Tags,Rank,Color
-0,5506b230a11c0aeab3000c1f,Deodorant Evaporator,['python'],2022-12-13,Dec-22,reference,76219,22219,['Fundamentals'],7 kyu,white
-1,53f0f358b9cb376eca001079,Regular Ball Super Ball,['python'],2022-12-13,Dec-22,reference,65697,27450,['Fundamentals'],8 kyu,white
-2,534d2f5b5371ecf8d2000a08,Multiplication table,['python'],2022-12-12,Dec-22,reference,52334,21566,"['Arrays', 'Fundamentals']",6 kyu,yellow
-3,5d5ee4c35162d9001af7d699,Sum of Minimums!,['python'],2022-12-12,Dec-22,reference,34809,16023,"['Fundamentals', 'Arrays']",7 kyu,white
-4,5aff237c578a14752d0035ae,Predict your age!,['python'],2022-12-12,Dec-22,reference,45281,17797,['Fundamentals'],7 kyu,white
-5,56efc695740d30f963000557,altERnaTIng cAsE <=> ALTerNAtiNG CaSe,['python'],2022-12-12,Dec-22,reference,103190,38366,['Fundamentals'],8 kyu,white
-6,545a4c5a61aa4c6916000755,Find the middle element,['python'],2022-12-12,Dec-22,reference,70029,23034,"['Arrays', 'Fundamentals']",7 kyu,white
-7,5302d846be2a9189af0001e4,Welcome to the City,['python'],2022-12-12,Dec-22,reference,51375,16015,"['Strings', 'Fundamentals']",8 kyu,white
-8,534e01fbbb17187c7e0000c6,Make a spiral,['python'],2022-12-01,Dec-22,algorithms,77250,10781,"['Algorithms', 'Arrays', 'Logic']",3 kyu,blue
-9,52bb6539a4cf1b12d90005b7,Battleship field validator,['python'],2022-12-01,Dec-22,algorithms,122333,10872,"['Games', 'Arrays', 'Algorithms']",3 kyu,blue
-10,526dbd6c8c0eb53254000110,Not very secure,['python'],2022-11-30,Nov-22,bug_fixes,144023,26352,"['Regular Expressions', 'Strings']",5 kyu,yellow
-11,52e1476c8147a7547a000811,Regex Password Validation,['python'],2022-11-30,Nov-22,reference,199335,22289,"['Regular Expressions', 'Fundamentals']",5 kyu,yellow
-12,5270d0d18625160ada0000e4,Greed is Good,['python'],2022-11-29,Nov-22,algorithms,223460,37614,['Algorithms'],5 kyu,yellow
-13,55c04b4cc56a697bb0000048,Scramblies,['python'],2022-11-29,Nov-22,algorithms,281014,40021,"['Strings', 'Performance', 'Algorithms']",5 kyu,yellow
-14,52f787eb172a8b4ae1000a34,Number of trailing zeros of N!,['python'],2022-11-29,Nov-22,algorithms,288705,40678,"['Algorithms', 'Logic', 'Mathematics']",5 kyu,yellow
-15,54b724efac3d5402db00065e,Decode the Morse code ,['python'],2022-11-28,Nov-22,algorithms,923696,91735,['Algorithms'],6 kyu,yellow
-16,515de9ae9dcfc28eb6000001,Split Strings,['python'],2022-11-27,Nov-22,algorithms,313585,102736,"['Regular Expressions', 'Strings', 'Algorithms']",6 kyu,yellow
-17,517abf86da9663f1d2000003,Convert string to camel case,['python'],2022-11-27,Nov-22,algorithms,586026,131642,"['Regular Expressions', 'Algorithms', 'Strings']",6 kyu,yellow
-18,5526fc09a1bbd946250002dc,Find The Parity Outlier,['python'],2022-11-27,Nov-22,algorithms,594549,163305,['Algorithms'],6 kyu,yellow
-19,52c31f8e6605bcc646000082,Two Sum,['python'],2022-11-27,Nov-22,reference,162579,48572,"['Arrays', 'Fundamentals', 'Algorithms']",6 kyu,yellow
-20,5b180e9fedaa564a7000009a,Fix string case,['python'],2022-11-27,Nov-22,reference,49800,20425,['Fundamentals'],7 kyu,white
-21,59fca81a5712f9fa4700159a,Convert to Binary,['python'],2022-11-27,Nov-22,reference,49386,22306,"['Mathematics', 'Algorithms', 'Fundamentals']",8 kyu,white
-22,59cfc000aeb2844d16000075,Alternate capitalization,['python'],2022-11-27,Nov-22,reference,57333,20441,"['Strings', 'Fundamentals']",7 kyu,white
-23,58ca658cc0d6401f2700045f,Find Multiples of a Number,['python'],2022-11-27,Nov-22,reference,65635,25465,"['Fundamentals', 'Arrays']",8 kyu,white
-24,57e92e91b63b6cbac20001e5,Holiday VIII - Duty Free,['python'],2022-11-27,Nov-22,reference,52502,21790,"['Fundamentals', 'Mathematics']",8 kyu,white
-25,57ee99a16c8df7b02d00045f,Flatten and sort an array,['python'],2022-11-27,Nov-22,reference,49143,18408,"['Arrays', 'Sorting', 'Fundamentals']",7 kyu,white
-26,56530b444e831334c0000020,Determine offspring sex based on genes XX and XY chromosomes,['python'],2022-11-27,Nov-22,reference,29906,16301,['Fundamentals'],8 kyu,white
-27,55ecd718f46fba02e5000029,What is between?,['python'],2022-11-26,Nov-22,reference,66014,35214,"['Fundamentals', 'Algorithms']",8 kyu,white
-28,555086d53eac039a2a000083,Opposites Attract,['python'],2022-11-26,Nov-22,reference,201776,90888,['Fundamentals'],8 kyu,white
-29,54d512e62a5e54c96200019e,Primes in numbers,['python'],2022-11-25,Nov-22,reference,121571,23006,"['Fundamentals', 'Mathematics']",5 kyu,yellow
-30,53af2b8861023f1d88000832,Are You Playing Banjo?,['python'],2022-11-25,Nov-22,reference,196736,87915,"['Strings', 'Fundamentals']",8 kyu,white
-31,52ceafd1f235ce81aa00073a,Plural,['python'],2022-11-25,Nov-22,reference,52531,25263,['Fundamentals'],8 kyu,white
-32,57814d79a56c88e3e0000786,Simple Encryption #1 - Alternating Split,['python'],2022-11-25,Nov-22,reference,184380,23141,"['Cryptography', 'Algorithms', 'Strings', 'Arrays', 'Fundamentals']",6 kyu,yellow
-33,566fc12495810954b1000030,Count the Digit,['python'],2022-11-25,Nov-22,reference,113328,34613,['Fundamentals'],7 kyu,white
-34,5667e8f4e3f572a8f2000039,Mumbling,['python'],2022-11-25,Nov-22,reference,552553,172405,"['Fundamentals', 'Strings', 'Puzzles']",7 kyu,white
-35,53dbd5315a3c69eed20002dd,List Filtering,['python'],2022-11-25,Nov-22,reference,477747,188443,"['Lists', 'Filtering', 'Data Structures', 'Fundamentals']",7 kyu,white
-36,539ee3b6757843632d00026b,Find the capitals,['python'],2022-11-25,Nov-22,reference,73591,26673,"['Strings', 'Arrays', 'Fundamentals']",7 kyu,white
-37,5c8bfa44b9d1192e1ebd3d15,A wolf in sheep's clothing,['python'],2022-11-22,Nov-22,reference,68923,23692,"['Fundamentals', 'Arrays']",8 kyu,white
-38,59441520102eaa25260000bf,5 without numbers !!,['python'],2022-11-22,Nov-22,reference,66589,21179,"['Restricted', 'Fundamentals', 'Puzzles']",8 kyu,white
-39,57a55c8b72292d057b000594,Reversing Words in a String,['python'],2022-11-22,Nov-22,reference,62123,16043,"['Fundamentals', 'Strings']",8 kyu,white
-40,570a6a46455d08ff8d001002,No zeros for heros,['python'],2022-11-22,Nov-22,reference,66070,17175,['Fundamentals'],8 kyu,white
-41,56170e844da7c6f647000063,Drink about,['python'],2022-11-22,Nov-22,reference,69664,26164,['Fundamentals'],8 kyu,white
-42,5949481f86420f59480000e7,Odd or Even?,['python'],2022-11-22,Nov-22,reference,184248,88084,"['Fundamentals', 'Arrays']",7 kyu,white
-43,578553c3a1b8d5c40300037c,Ones and Zeros,['python'],2022-11-22,Nov-22,reference,265731,103225,"['Fundamentals', 'Arrays']",7 kyu,white
-44,5679aa472b8f57fb8c000047,Equal Sides Of An Array,['python'],2022-11-21,Nov-22,reference,392758,93858,"['Algorithms', 'Arrays', 'Fundamentals']",6 kyu,yellow
-45,55ad04714f0b468e8200001c,get character from ASCII Value,['python'],2022-11-21,Nov-22,reference,39670,23505,['Fundamentals'],8 kyu,white
-46,51f2b4448cadf20ed0000386,Remove anchor from URL,['python'],2022-11-21,Nov-22,reference,75374,28668,"['Regular Expressions', 'Strings', 'Fundamentals']",7 kyu,white
-47,57cfdf34902f6ba3d300001e,Sort and Star,['python'],2022-11-21,Nov-22,reference,92182,30635,"['Fundamentals', 'Strings', 'Arrays', 'Sorting']",8 kyu,white
-48,57a4d500e298a7952100035d,Hex to Decimal,['python'],2022-11-21,Nov-22,reference,46202,21016,['Fundamentals'],8 kyu,white
-49,56fa3c5ce4d45d2a52001b3c,"Exclusive ""or"" (xor) Logical Operator",['python'],2022-11-21,Nov-22,reference,44412,23704,['Fundamentals'],8 kyu,white
-50,563f037412e5ada593000114,"Money, Money, Money",['python'],2022-11-21,Nov-22,reference,99789,35192,['Fundamentals'],7 kyu,white
-51,545afd0761aa4c3055001386,Enumerable Magic #25 - Take the First N Elements,['python'],2022-11-21,Nov-22,reference,62143,20017,['Fundamentals'],8 kyu,white
-52,5ac6932b2f317b96980000ca,Form The Minimum,['python'],2022-11-21,Nov-22,reference,53694,19666,['Fundamentals'],7 kyu,white
-53,5a3fe3dde1ce0e8ed6000097,Century From Year,['python'],2022-11-21,Nov-22,reference,327206,123402,"['Fundamentals', 'Mathematics']",8 kyu,white
-54,5899dc03bc95b1bf1b0000ad,Invert values,['python'],2022-11-21,Nov-22,reference,202933,89272,"['Lists', 'Fundamentals', 'Arrays']",8 kyu,white
-55,586c1cf4b98de0399300001d,Grasshopper - Terminal game combat function,['python'],2022-11-21,Nov-22,reference,33493,18213,['Fundamentals'],8 kyu,white
-56,51b6249c4612257ac0000005,Roman Numerals Decoder,['python'],2022-11-21,Nov-22,algorithms,175152,35607,['Algorithms'],6 kyu,yellow
-57,51b66044bce5799a7f000003,Roman Numerals Helper,['python'],2022-11-21,Nov-22,algorithms,121308,18609,['Algorithms'],4 kyu,blue
-58,57ec8bd8f670e9a47a000f89,The Wide-Mouthed frog! ,['python'],2022-11-20,Nov-22,reference,80478,23138,"['Strings', 'Logic', 'Fundamentals']",8 kyu,white
-59,57eae20f5500ad98e50002c5,Remove String Spaces,['python'],2022-11-20,Nov-22,reference,327377,161160,"['Fundamentals', 'Strings']",8 kyu,white
-60,54bf85e3d5b56c7a05000cf9,Testing 1-2-3,['python'],2022-11-20,Nov-22,reference,92541,43093,"['Arrays', 'Fundamentals']",7 kyu,white
-61,5174a4c0f2769dd8b1000003,Sort Numbers,['python'],2022-11-20,Nov-22,reference,124362,40164,['Fundamentals'],7 kyu,white
-62,5808dcb8f0ed42ae34000031,Switch it Up!,['python'],2022-11-20,Nov-22,reference,105491,44440,['Fundamentals'],8 kyu,white
-63,574b3b1599d8f897470018f6,What's the real floor?,['python'],2022-11-20,Nov-22,reference,110729,26576,['Fundamentals'],8 kyu,white
-64,56200d610758762fb0000002,Grasshopper - Basic Function Fixer,['python'],2022-11-20,Nov-22,reference,30305,23552,['Fundamentals'],8 kyu,white
-65,55a2d7ebe362935a210000b2,Find the smallest integer in the array,['python'],2022-11-20,Nov-22,reference,332353,166702,['Fundamentals'],8 kyu,white
-66,578aa45ee9fd15ff4600090d,Sort the odd,['python'],2022-11-20,Nov-22,reference,292218,75737,"['Fundamentals', 'Arrays', 'Sorting']",6 kyu,yellow
-67,571d42206414b103dc0006a1,Filling an array (part 1),['python'],2022-11-20,Nov-22,reference,73045,26965,"['Arrays', 'Fundamentals']",8 kyu,white
-68,55d1d6d5955ec6365400006d,Round up to the next multiple of 5,['python'],2022-11-20,Nov-22,reference,63491,22818,['Fundamentals'],7 kyu,white
-69,55a5bfaa756cfede78000026,Super Duper Easy,['python'],2022-11-20,Nov-22,reference,52765,19398,['Fundamentals'],8 kyu,white
-70,54b42f9314d9229fd6000d9c,Duplicate Encoder,['python'],2022-11-20,Nov-22,reference,671864,160946,"['Strings', 'Arrays', 'Fundamentals']",6 kyu,yellow
-71,5ce9c1000bab0b001134f5af,Quarter of the year,['python'],2022-11-20,Nov-22,reference,120302,58517,"['Fundamentals', 'Mathematics']",8 kyu,white
-72,5865918c6b569962950002a1,All Star Code Challenge #18,['python'],2022-11-20,Nov-22,reference,65805,33630,"['Fundamentals', 'Strings']",8 kyu,white
-73,57fae964d80daa229d000126,Exclamation marks series #1: Remove an exclamation mark from the end of string,['python'],2022-11-20,Nov-22,reference,75668,19296,"['Fundamentals', 'Strings']",8 kyu,white
-74,57a083a57cb1f31db7000028,Powers of 2,['python'],2022-11-20,Nov-22,reference,85775,35425,"['Mathematics', 'Fundamentals']",8 kyu,white
-75,57356c55867b9b7a60000bd7,Basic Mathematical Operations,['python'],2022-11-20,Nov-22,reference,234948,123606,"['Mathematics', 'Fundamentals']",8 kyu,white
-76,57202aefe8d6c514300001fd,Training JS #7: if..else and ternary operator,['python'],2022-11-20,Nov-22,reference,45486,22969,"['Fundamentals', 'Tutorials']",8 kyu,white
-77,5626b561280a42ecc50000d1,Take a Number And Sum  Its Digits Raised To The Consecutive Powers And ....¡Eureka!!,['python'],2022-11-20,Nov-22,reference,130789,41491,"['Fundamentals', 'Mathematics']",6 kyu,yellow
-78,53da6d8d112bd1a0dc00008b,Reverse List Order,['python'],2022-11-20,Nov-22,reference,51209,28630,"['Lists', 'Fundamentals']",8 kyu,white
-79,57cc975ed542d3148f00015b,You only need one - Beginner,['python'],2022-11-20,Nov-22,reference,158217,81349,"['Fundamentals', 'Strings', 'Arrays']",8 kyu,white
-80,5625618b1fe21ab49f00001f,Grasshopper - Debug sayHello,['python'],2022-11-20,Nov-22,reference,64977,38474,['Fundamentals'],8 kyu,white
-81,529eef7a9194e0cbc1000255,Anagram Detection,['python'],2022-11-20,Nov-22,reference,106147,32452,"['Strings', 'Fundamentals']",7 kyu,white
-82,52b7ed099cdc285c300001cd,Sum of Intervals,['python'],2022-11-19,Nov-22,algorithms,228639,27823,"['Algorithms', 'Performance']",4 kyu,blue
-83,5254ca2719453dcc0b00027d,Permutations,['python'],2022-11-19,Nov-22,algorithms,158630,35566,"['Permutations', 'Strings', 'Algorithms']",4 kyu,blue
-84,5263c6999e0f40dee200059d,The observed PIN,['python'],2022-11-19,Nov-22,algorithms,127251,26492,['Algorithms'],4 kyu,blue
-85,59821d485a49f4d71f00000b,SQLonacci sequence,['sql'],2022-11-19,Nov-22,algorithms,9623,1177,"['Algorithms', 'SQL']",5 kyu,yellow
-86,5977b6641e250a661a0000f0,Counting overlapping events,['sql'],2022-11-19,Nov-22,algorithms,29923,935,"['SQL', 'Algorithms']",5 kyu,yellow
-87,580fe518cefeff16d00000c0,SQL Basics: Create a FUNCTION,['sql'],2022-11-18,Nov-22,reference,24863,5741,"['SQL', 'Fundamentals']",7 kyu,white
-88,5802e32dd8c944e562000020,SQL Basics: Simple JOIN,['sql'],2022-11-18,Nov-22,reference,64013,17442,"['Databases', 'Fundamentals', 'SQL']",7 kyu,white
-89,581283eb0a5fb13e06000020,Hello SQL World!,['sql'],2022-11-18,Nov-22,reference,45975,8392,"['Fundamentals', 'SQL']",7 kyu,white
-90,591127cbe8b9fb05bd00004b,Best-Selling Books (SQL for Beginners #5),['sql'],2022-11-18,Nov-22,reference,42549,18268,"['Fundamentals', 'SQL', 'Databases']",7 kyu,white
-91,59401e0e54a655a298000040,SQL Basics - Position,['sql'],2022-11-18,Nov-22,reference,22780,9084,"['Fundamentals', 'SQL']",7 kyu,white
-92,59414360f5c3947364000070,SQL Basics: Repeat and Reverse,['sql'],2022-11-18,Nov-22,reference,22280,8522,"['Fundamentals', 'SQL']",7 kyu,white
-93,59413d53f5c3947364000016,SQL: Regex String to Table,['sql'],2022-11-18,Nov-22,reference,11053,2011,"['Fundamentals', 'Regular Expressions', 'SQL']",7 kyu,white
-94,5942b066db68b6f35f000084,SQL: Regex Replace,['sql'],2022-11-18,Nov-22,reference,27618,4586,"['Fundamentals', 'Regular Expressions', 'SQL']",7 kyu,white
-95,5943a58f95d5f72cb900006a,SQL: Right and Left,['sql'],2022-11-18,Nov-22,reference,24942,5640,"['Fundamentals', 'SQL']",7 kyu,white
-96,5943b797d8c9432eb7000066,SQL: Padding Encryption,['sql'],2022-11-18,Nov-22,reference,12209,3197,"['Fundamentals', 'SQL']",7 kyu,white
-97,59440034e94fae05b2000073,SQL: Concatenating Columns,['sql'],2022-11-18,Nov-22,reference,29917,10850,"['Fundamentals', 'Strings', 'SQL']",7 kyu,white
-98,594633020a561e329a0000a2,Easy SQL: Counting and Grouping,['sql'],2022-11-18,Nov-22,reference,29626,11873,"['Fundamentals', 'SQL']",7 kyu,white
-99,594804a218e96caa8d00051b,Easy SQL: ASCII Converter,['sql'],2022-11-18,Nov-22,reference,11852,5193,"['Fundamentals', 'Strings', 'SQL']",7 kyu,white
-100,59491429952ac97ad9000106,SQL: Bytes in String from Ints,['sql'],2022-11-18,Nov-22,reference,12270,2738,"['Fundamentals', 'Strings', 'SQL']",7 kyu,white
-101,594a6ad320ac16a54400007f,Easy SQL: Cube Root and Natural Log,['sql'],2022-11-18,Nov-22,reference,27411,5715,"['Fundamentals', 'Mathematics', 'SQL']",7 kyu,white
-102,594a8f653b5b4e8f3d000035,SQL Basics: Raise to the Power,['sql'],2022-11-18,Nov-22,reference,15359,9563,"['Fundamentals', 'Mathematics', 'SQL']",7 kyu,white
-103,594a8f2f7ca3c692a4000041,Easy SQL: Absolute Value and Log to Base,['sql'],2022-11-18,Nov-22,reference,25995,5776,"['Fundamentals', 'Mathematics', 'SQL']",7 kyu,white
-104,5a8eb3fb57c562110f0000a1,GROCERY STORE: Inventory,['sql'],2022-11-18,Nov-22,reference,34334,8530,"['SQL', 'Databases', 'Fundamentals']",7 kyu,white
-105,594900e16fd782a607000059,Easy SQL: Bit Length,['sql'],2022-11-18,Nov-22,reference,19451,6804,"['Fundamentals', 'Strings', 'SQL']",7 kyu,white
-106,5a8ec692b17101bfc70001ba,GROCERY STORE:  Logistic Optimisation,['sql'],2022-11-18,Nov-22,reference,19586,5037,"['SQL', 'Databases', 'Fundamentals']",7 kyu,white
-107,5a8f00745084d718940000c5,GROCERY STORE: Real Price!,['sql'],2022-11-18,Nov-22,reference,53771,3215,"['SQL', 'Databases', 'Fundamentals']",7 kyu,white
-108,5ab7a736edbcfc8e62000007,SQL with Sailor Moon: Thinking about JOINs...,['sql'],2022-11-18,Nov-22,reference,22597,6414,"['Fundamentals', 'SQL', 'Databases']",7 kyu,white
-109,5ab828bcedbcfc65ea000099,SQL with Pokemon:  Damage Multipliers,['sql'],2022-11-18,Nov-22,reference,38195,5922,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",7 kyu,white
-110,5abcf0f930488ff1a6000b66,SQL with Harry Potter: Sorting Hat Comparators,['sql'],2022-11-18,Nov-22,reference,31045,7243,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",7 kyu,white
-111,5ac698cdd325ad18a3000170,SQL with Street Fighter: Total Wins,['sql'],2022-11-18,Nov-22,reference,61776,7060,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",7 kyu,white
-112,5ad90fb688a0b74111000055,SQL with LOTR: Elven Wildcards,['sql'],2022-11-18,Nov-22,reference,35913,7581,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",7 kyu,white
-113,5809508cc47d327c12000084,SQL Basics: Simple WHERE and ORDER BY,['sql'],2022-11-17,Nov-22,reference,34652,18406,"['SQL', 'Filtering', 'Databases', 'Fundamentals']",8 kyu,white
-114,5809b9ef88b750ab180001ec,1. Find all active students,['sql'],2022-11-17,Nov-22,algorithms,33471,11152,"['Databases', 'SQL']",8 kyu,white
-115,58110da0009b4f7ef80000ad,SQL Basics: Simple SUM,['sql'],2022-11-17,Nov-22,reference,26183,16067,"['SQL', 'Fundamentals']",8 kyu,white
-116,581113dce10b531b1d0000bd,SQL Basics: Simple MIN / MAX,['sql'],2022-11-17,Nov-22,reference,34312,15670,"['SQL', 'Fundamentals']",8 kyu,white
-117,58111670e10b53be31000108,SQL Basics: Simple DISTINCT,['sql'],2022-11-17,Nov-22,reference,23650,17090,"['SQL', 'Fundamentals']",8 kyu,white
-118,582365c18917435ab3000020,SQL Grasshopper: Select Columns,['sql'],2022-11-17,Nov-22,reference,21741,14795,"['SQL', 'Fundamentals']",8 kyu,white
-119,590a95eede09f87472000213,Adults only  (SQL for Beginners #1),['sql'],2022-11-17,Nov-22,reference,38598,23969,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",8 kyu,white
-120,590ba881fe13cfdcc20001b4,On the Canadian Border (SQL for Beginners #2),['sql'],2022-11-17,Nov-22,reference,43370,19264,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",8 kyu,white
-121,590cc86f7557c0494000007e,Register for the Party (SQL for Beginners #3),['sql'],2022-11-17,Nov-22,reference,37226,15699,"['Fundamentals', 'SQL', 'Databases']",8 kyu,white
-122,5910b0d378cc2ba91400000b,Collect Tuition (SQL for Beginners #4),['sql'],2022-11-17,Nov-22,reference,28839,17322,"['Fundamentals', 'SQL', 'Databases']",8 kyu,white
-123,593ed37c93350098d600001d,Easy SQL - Ordering,['sql'],2022-11-17,Nov-22,reference,23201,15140,"['Fundamentals', 'SQL']",8 kyu,white
-124,594800ba6fb152624300006d,Easy SQL: LowerCase,['sql'],2022-11-17,Nov-22,reference,28074,11791,"['Fundamentals', 'Strings', 'SQL']",8 kyu,white
-125,594a50bafd3b7031c1000013,Easy SQL: Convert to Hexadecimal,['sql'],2022-11-17,Nov-22,reference,23851,7341,"['Fundamentals', 'SQL']",8 kyu,white
-126,594a6133704e4daf5d00003d,Easy SQL: Rounding Decimals,['sql'],2022-11-17,Nov-22,reference,30442,10194,"['Fundamentals', 'SQL']",8 kyu,white
-127,594a691720ac16a544000075,Easy SQL: Square Root and Log,['sql'],2022-11-17,Nov-22,reference,16999,6733,"['Fundamentals', 'Mathematics', 'SQL']",8 kyu,white
-128,5a8d94d3ba1bb569e5000198,BASICS: Length based SELECT  with LIKE,['sql'],2022-11-17,Nov-22,reference,24902,8082,"['Fundamentals', 'SQL', 'Databases']",7 kyu,white
-129,59cb550486a6fd10b50000ad,SQL: Disorder,['sql'],2022-11-17,Nov-22,reference,15394,4067,"['Fundamentals', 'SQL']",7 kyu,white
-130,58111f4ee10b5301a7000175,SQL Basics: Simple GROUP BY,['sql'],2022-11-17,Nov-22,reference,41284,18025,"['SQL', 'Fundamentals']",7 kyu,white
-131,595a3ba3843b0cbf8e000004,SQL Basics: Up and Down,['sql'],2022-11-17,Nov-22,reference,26030,6464,"['Fundamentals', 'SQL']",7 kyu,white
-132,594a8fa5a2db9e5f290000c3,SQL Basics: Truncating,['sql'],2022-11-17,Nov-22,reference,33849,5741,"['Fundamentals', 'Mathematics', 'SQL']",7 kyu,white
-133,594a389387a7c6a77a000005,Easy SQL: Moving Values,['sql'],2022-11-17,Nov-22,reference,20252,3922,"['Fundamentals', 'Strings', 'SQL']",7 kyu,white
-134,594901ba44645fd7bd00005f,SQL Basics:  Maths with String Manipulations,['sql'],2022-11-17,Nov-22,reference,23620,7461,"['Fundamentals', 'Strings', 'SQL']",7 kyu,white
-135,594a9592704e4d21bc000131,SQL Basics: Mod,['sql'],2022-11-17,Nov-22,reference,21762,12356,"['Fundamentals', 'Mathematics', 'SQL']",8 kyu,white
-136,583710ccaa6717322c000105,Simple multiplication,['python'],2022-11-17,Nov-22,reference,120271,80749,['Fundamentals'],8 kyu,white
-137,576757b1df89ecf5bd00073b,Build Tower,['python'],2022-11-17,Nov-22,reference,246657,70823,"['Strings', 'ASCII Art', 'Fundamentals']",6 kyu,yellow
-138,559ac78160f0be07c200005a,Name Shuffler,['python'],2022-11-17,Nov-22,reference,47179,24945,"['Strings', 'Fundamentals']",8 kyu,white
-139,5544c7a5cb454edb3c000047,Bouncing Balls,['python'],2022-11-17,Nov-22,reference,343820,67248,"['Puzzles', 'Algorithms', 'Mathematics']",6 kyu,yellow
-140,57a6633153ba33189e000074,Ordered Count of Characters,['python'],2022-11-17,Nov-22,reference,43979,10590,['Fundamentals'],7 kyu,white
-141,545cedaa9943f7fe7b000048,Detect Pangram,['python'],2022-11-17,Nov-22,reference,472987,118842,"['Strings', 'Data Structures', 'Fundamentals']",6 kyu,yellow
-142,5ad0d8356165e63c140014d4,Student's Final Grade,['python'],2022-11-17,Nov-22,reference,170983,34487,['Fundamentals'],8 kyu,white
-143,5966e33c4e686b508700002d,Sum The Strings,['python'],2022-11-17,Nov-22,reference,128423,33023,['Fundamentals'],8 kyu,white
-144,56b1f01c247c01db92000076,Double Char,['python'],2022-11-17,Nov-22,reference,99636,49368,"['Fundamentals', 'Strings']",8 kyu,white
-145,542c0f198e077084c0000c2e,Count the divisors of a number,['python'],2022-11-17,Nov-22,reference,101760,47603,"['Number Theory', 'Mathematics', 'Fundamentals']",7 kyu,white
-146,523b623152af8a30c6000027,Function 2 - squaring an argument,['python'],2022-11-17,Nov-22,reference,64997,41281,['Fundamentals'],8 kyu,white
-147,586f6741c66d18c22800010a,Sum of a sequence,['python'],2022-11-17,Nov-22,reference,93539,31116,"['Fundamentals', 'Algorithms', 'Mathematics']",7 kyu,white
-148,57ee4a67108d3fd9eb0000e7,Filter out the geese,['python'],2022-11-17,Nov-22,reference,65566,27840,"['Arrays', 'Fundamentals']",8 kyu,white
-149,57a1fd2ce298a731b20006a4,Is it a palindrome?,['python'],2022-11-17,Nov-22,reference,89601,32604,['Fundamentals'],8 kyu,white
-150,577ff15ad648a14b780000e7,Welcome!,['python'],2022-11-17,Nov-22,reference,100229,32256,['Fundamentals'],8 kyu,white
-151,5601409514fc93442500010b,How good are you really?,['python'],2022-11-17,Nov-22,reference,183552,77564,['Fundamentals'],8 kyu,white
-152,55a70521798b14d4750000a4,Returning Strings,['python'],2022-11-17,Nov-22,reference,218625,124926,"['Strings', 'Fundamentals']",8 kyu,white
-153,557cd6882bfa3c8a9f0000c1,Parse nice int from char problem,['python'],2022-11-17,Nov-22,reference,97426,47390,['Fundamentals'],8 kyu,white
-154,52fba66badcd10859f00097e,Disemvowel Trolls,['python'],2022-11-17,Nov-22,reference,728036,245090,"['Strings', 'Regular Expressions', 'Fundamentals']",7 kyu,white
-155,583f158ea20cfcbeb400000a,Make a function that does arithmetic!,['python'],2022-11-17,Nov-22,reference,66767,37115,['Fundamentals'],7 kyu,white
-156,57f24e6a18e9fad8eb000296,"I love you,  a little ,  a lot,  passionately ... not at all",['python'],2022-11-17,Nov-22,reference,155798,33951,"['Arrays', 'Fundamentals']",8 kyu,white
-157,563b662a59afc2b5120000c6,Growth of a Population,['python'],2022-11-17,Nov-22,reference,724551,123652,['Fundamentals'],7 kyu,white
-158,5502c9e7b3216ec63c0001aa,Categorize New Member,['python'],2022-11-17,Nov-22,reference,297599,116191,['Fundamentals'],7 kyu,white
-159,57f609022f4d534f05000024,Find the stray number,['python'],2022-11-17,Nov-22,reference,192918,44726,"['Fundamentals', 'Algorithms']",7 kyu,white
-160,57ea5b0b75ae11d1e800006c,Sort array by string length,['python'],2022-11-17,Nov-22,reference,62691,27625,"['Sorting', 'Arrays', 'Fundamentals']",7 kyu,white
-161,56cd44e1aa4ac7879200010b,Is the string uppercase?,['python'],2022-11-17,Nov-22,reference,136859,39004,"['Fundamentals', 'Strings']",8 kyu,white
-162,5672a98bdbdd995fad00000f,Rock Paper Scissors!,['python'],2022-11-17,Nov-22,reference,146937,61733,['Fundamentals'],8 kyu,white
-163,5b853229cfde412a470000d0,Twice as old,['python'],2022-11-17,Nov-22,reference,94441,44962,"['Fundamentals', 'Mathematics']",8 kyu,white
-164,5ae62fcf252e66d44d00008e,Expressions Matter ,['python'],2022-11-17,Nov-22,reference,108943,38372,"['Algorithms', 'Fundamentals']",8 kyu,white
-165,58cb43f4256836ed95000f97,Difference of Volumes of Cuboids,['python'],2022-11-17,Nov-22,reference,73715,33629,['Fundamentals'],8 kyu,white
-166,58261acb22be6e2ed800003a,Volume of a Cuboid,['python'],2022-11-17,Nov-22,reference,82568,60504,"['Geometry', 'Fundamentals', 'Mathematics']",8 kyu,white
-167,577bd026df78c19bca0002c0,Correct the mistakes of the character recognition software,['python'],2022-11-17,Nov-22,reference,90074,34911,"['Fundamentals', 'Strings']",8 kyu,white
-168,56269eb78ad2e4ced1000013,Find the next perfect square!,['python'],2022-11-17,Nov-22,reference,303610,118755,"['Algebra', 'Fundamentals']",7 kyu,white
-169,554b4ac871d6813a03000035,Highest and Lowest,['python'],2022-11-17,Nov-22,reference,746404,215663,"['Fundamentals', 'Strings']",7 kyu,white
-170,51f2d1cafc9c0f745c00037d,String ends with?,['python'],2022-11-17,Nov-22,reference,464458,128429,"['Strings', 'Fundamentals']",7 kyu,white
-171,58649884a1659ed6cb000072,Thinkful - Logic Drills: Traffic light,['python'],2022-11-17,Nov-22,reference,89200,54629,['Fundamentals'],8 kyu,white
-172,583203e6eb35d7980400002a,Count the smiley faces!,['python'],2022-11-17,Nov-22,reference,314361,68899,"['Regular Expressions', 'Fundamentals']",6 kyu,yellow
-173,57e76bc428d6fbc2d500036d,Convert a string to an array,['python'],2022-11-17,Nov-22,reference,129756,71449,"['Arrays', 'Strings', 'Fundamentals']",8 kyu,white
-174,577a98a6ae28071780000989,Find Maximum and Minimum Values of a List,['python'],2022-11-17,Nov-22,reference,169257,81345,['Fundamentals'],8 kyu,white
-175,56c5847f27be2c3db20009c3,Subtract the Sum,['python'],2022-11-17,Nov-22,games,73513,16008,"['Puzzles', 'Strings', 'Number Theory', 'Mathematics']",8 kyu,white
-176,55f73be6e12baaa5900000d4,Grasshopper - Messi goals function,['python'],2022-11-17,Nov-22,reference,73362,50467,['Fundamentals'],8 kyu,white
-177,55983863da40caa2c900004e,Next bigger number with the same digits,['python'],2022-11-16,Nov-22,refactoring,428633,27339,"['Strings', 'Refactoring']",4 kyu,blue
-178,5a6663e9fd56cb5ab800008b,"Cat years, Dog years",['python'],2022-11-16,Nov-22,reference,72627,34002,['Fundamentals'],8 kyu,white
-179,568dcc3c7f12767a62000038,L1: Set Alarm,['python'],2022-11-16,Nov-22,reference,91704,53659,"['Fundamentals', 'Logic']",8 kyu,white
-180,563cf89eb4747c5fb100001b,Remove the minimum,['python'],2022-11-16,Nov-22,reference,327601,55944,"['Lists', 'Arrays', 'Fundamentals']",7 kyu,white
-181,55f9b48403f6b87a7c0000bd,Beginner Series #1 School Paperwork,['python'],2022-11-16,Nov-22,reference,195796,90582,['Fundamentals'],8 kyu,white
-182,550498447451fbbd7600041c,"Are they the ""same""?",['python'],2022-11-16,Nov-22,reference,1618763,79848,['Fundamentals'],6 kyu,yellow
-183,58f8a3a27a5c28d92e000144,Find the first non-consecutive number,['python'],2022-11-16,Nov-22,reference,229122,46065,"['Arrays', 'Fundamentals']",8 kyu,white
-184,582cb0224e56e068d800003c,Keep Hydrated!,['python'],2022-11-16,Nov-22,reference,250590,128149,"['Algorithms', 'Mathematics', 'Fundamentals']",8 kyu,white
-185,57a0885cbb9944e24c00008e,Remove exclamation marks,['python'],2022-11-16,Nov-22,reference,143105,58404,"['Fundamentals', 'Strings']",8 kyu,white
-186,55cbc3586671f6aa070000fb,Grasshopper - Check for factor,['python'],2022-11-16,Nov-22,reference,68855,42155,"['Mathematics', 'Fundamentals']",8 kyu,white
-187,551b4501ac0447318f0009cd,Convert a Boolean to a String,['python'],2022-11-16,Nov-22,reference,177232,116302,"['Strings', 'Fundamentals']",8 kyu,white
-188,5ab6538b379d20ad880000ab,Area or Perimeter,['python'],2022-11-16,Nov-22,reference,95090,57233,"['Fundamentals', 'Mathematics', 'Geometry']",8 kyu,white
-189,57f781872e3d8ca2a000007e,Beginner - Lost Without a Map,['python'],2022-11-16,Nov-22,reference,227175,108109,"['Fundamentals', 'Arrays']",8 kyu,white
-190,55cbd4ba903825f7970000f5,Grasshopper - Grade book,['python'],2022-11-16,Nov-22,reference,123362,57491,['Fundamentals'],8 kyu,white
-191,5a023c426975981341000014,Third Angle of a Triangle,['python'],2022-11-16,Nov-22,reference,75102,54993,['Fundamentals'],8 kyu,white
-192,58f5c63f1e26ecda7e000029,Mexican Wave,['python'],2022-11-16,Nov-22,reference,163329,46534,"['Arrays', 'Strings', 'Fundamentals']",6 kyu,yellow
-193,5875b200d520904a04000003,Will there be enough space?,['python'],2022-11-16,Nov-22,reference,106981,42858,['Fundamentals'],8 kyu,white
-194,55cb632c1a5d7b3ad0000145,Keep up the hoop,['python'],2022-11-15,Nov-22,reference,79338,41700,['Fundamentals'],8 kyu,white
-195,554ca54ffa7d91b236000023,Delete occurrences of an element if it occurs more than n times,['python'],2022-11-15,Nov-22,reference,279439,69586,"['Lists', 'Fundamentals']",6 kyu,yellow
-196,57eaeb9578748ff92a000009,Sum Mixed Array,['python'],2022-11-15,Nov-22,reference,123035,56417,"['Fundamentals', 'Strings', 'Arrays']",8 kyu,white
-197,5772da22b89313a4d50012f7,Grasshopper - Personalized Message,['python'],2022-11-15,Nov-22,reference,115253,62856,"['Fundamentals', 'Strings']",8 kyu,white
-198,5769b3802ae6f8e4890009d2,Removing Elements,['python'],2022-11-15,Nov-22,reference,115085,41688,"['Lists', 'Arrays', 'Fundamentals']",8 kyu,white
-199,55fab1ffda3e2e44f00000c6,Beginner Series #4 Cockroach,['python'],2022-11-15,Nov-22,reference,132191,48629,['Fundamentals'],8 kyu,white
-200,53dc23c68a0c93699800041d,Sentence Smash,['python'],2022-11-15,Nov-22,reference,151448,74228,"['Strings', 'Arrays', 'Fundamentals']",8 kyu,white
-201,5aa736a455f906981800360d,The Feast of Many Beasts,['python'],2022-11-15,Nov-22,reference,107197,47856,"['Strings', 'Fundamentals']",8 kyu,white
-202,57eb8fcdf670e99d9b000272,Highest Scoring Word,['python'],2022-11-15,Nov-22,reference,264931,67062,"['Fundamentals', 'Strings', 'Arrays']",6 kyu,yellow
-203,57eadb7ecd143f4c9c0000a3,Abbreviate a Two Word Name,['python'],2022-11-15,Nov-22,reference,331281,104439,"['Strings', 'Fundamentals']",8 kyu,white
-204,559590633066759614000063,The highest profit wins!,['python'],2022-11-15,Nov-22,reference,121821,61196,"['Lists', 'Arrays', 'Fundamentals']",7 kyu,white
-205,5556282156230d0e5e000089,DNA to RNA Conversion,['python'],2022-11-15,Nov-22,reference,159770,78322,"['Fundamentals', 'Strings']",8 kyu,white
-206,57b06f90e298a7b53d000a86,The Supermarket Queue,['python'],2022-11-15,Nov-22,reference,230727,36565,"['Arrays', 'Fundamentals']",6 kyu,yellow
-207,576bb71bbbcf0951d5000044,Count of positives / sum of negatives,['python'],2022-11-15,Nov-22,reference,727491,89661,"['Fundamentals', 'Arrays', 'Lists']",8 kyu,white
-208,5648b12ce68d9daa6b000099,Number of People in the Bus,['python'],2022-11-15,Nov-22,reference,193314,97422,['Fundamentals'],7 kyu,white
-209,523b4ff7adca849afe000035,Function 1 - hello world,['python'],2022-11-15,Nov-22,reference,347071,151154,['Fundamentals'],8 kyu,white
-210,5168bb5dfe9a00b126000018,Reversed Strings,['python'],2022-11-15,Nov-22,reference,406269,209919,"['Strings', 'Fundamentals']",8 kyu,white
-211,5861d28f124b35723e00005e,Will you make it?,['python'],2022-11-15,Nov-22,reference,187417,78204,"['Mathematics', 'Fundamentals']",8 kyu,white
-212,57f780909f7e8e3183000078,Beginner - Reduce but Grow,['python'],2022-11-15,Nov-22,reference,144686,77075,"['Fundamentals', 'Arrays']",8 kyu,white
-213,57a429e253ba3381850000fb,Calculate BMI,['python'],2022-11-15,Nov-22,reference,207121,80131,['Fundamentals'],8 kyu,white
-214,57a0556c7cb1f31ab3000ad7,MakeUpperCase,['python'],2022-11-15,Nov-22,reference,149001,92104,"['Fundamentals', 'Strings']",8 kyu,white
-215,56541980fa08ab47a0000040,Printer Errors,['python'],2022-11-15,Nov-22,reference,342398,112823,['Fundamentals'],7 kyu,white
-216,55685cd7ad70877c23000102,Return Negative,['python'],2022-11-15,Nov-22,reference,487829,205673,['Fundamentals'],8 kyu,white
-217,551f37452ff852b7bd000139,Binary Addition,['python'],2022-11-15,Nov-22,reference,286278,121586,"['Binary', 'Fundamentals']",7 kyu,white
-218,5513795bd3fafb56c200049e,Count by X,['python'],2022-11-15,Nov-22,reference,152915,67701,"['Arrays', 'Fundamentals']",8 kyu,white
-219,5b077ebdaf15be5c7f000077,"If you can't sleep, just count sheep!!",['python'],2022-11-15,Nov-22,reference,173297,64875,"['Fundamentals', 'Strings']",8 kyu,white
-220,59ca8246d751df55cc00014c,Is he gonna survive?,['python'],2022-11-15,Nov-22,reference,155755,78338,['Fundamentals'],8 kyu,white
-221,576b93db1129fcf2200001e6,Sum without highest and lowest number,['python'],2022-11-15,Nov-22,reference,367308,53703,['Fundamentals'],8 kyu,white
-222,55f9bca8ecaa9eac7100004a,Beginner Series #2 Clock,['python'],2022-11-15,Nov-22,reference,152832,95311,['Fundamentals'],8 kyu,white
-223,57a2013acf1fa5bfc4000921,Calculate average ,['python'],2022-11-15,Nov-22,reference,246952,83158,"['Fundamentals', 'Arrays']",8 kyu,white
-224,57a0e5c372292dd76d000d7e,String repeat,['python'],2022-11-15,Nov-22,reference,390968,190210,"['Fundamentals', 'Strings']",8 kyu,white
-225,54e6533c92449cc251001667,Unique In Order,['python'],2022-11-15,Nov-22,reference,691610,135348,"['Algorithms', 'Fundamentals']",6 kyu,yellow
-226,53ee5429ba190077850011d4,You Can't Code Under Pressure #1,['python'],2022-11-15,Nov-22,reference,186228,116315,['Fundamentals'],8 kyu,white
-227,53dc54212259ed3d4f00071c,Sum Arrays,['python'],2022-11-15,Nov-22,reference,170868,89269,"['Arrays', 'Fundamentals']",8 kyu,white
-228,5a00e05cc374cb34d100000d,Reversed sequence ,['python'],2022-11-15,Nov-22,reference,179320,77324,['Fundamentals'],8 kyu,white
-229,56606694ec01347ce800001b,Is this a triangle?,['python'],2022-11-15,Nov-22,reference,410611,124360,"['Mathematics', 'Fundamentals']",7 kyu,white
-230,55d24f55d7dd296eb9000030,Grasshopper - Summation,['python'],2022-11-15,Nov-22,reference,324484,161775,"['Fundamentals', 'Mathematics']",8 kyu,white
-231,54c27a33fb7da0db0100040e,You're a square!,['python'],2022-11-15,Nov-22,reference,650373,200818,"['Fundamentals', 'Mathematics']",7 kyu,white
-232,57eae65a4321032ce000002d,Fake Binary,['python'],2022-11-15,Nov-22,reference,216469,81669,"['Fundamentals', 'Strings', 'Arrays']",8 kyu,white
-233,55f8a9c06c018a0d6e000132,Regex validate PIN code,['python'],2022-11-15,Nov-22,reference,689355,120485,"['Regular Expressions', 'Fundamentals']",7 kyu,white
-234,546f922b54af40e1e90001da,Replace With Alphabet Position,['python'],2022-11-15,Nov-22,reference,656985,147317,"['Strings', 'Fundamentals']",6 kyu,yellow
-235,5259b20d6021e9e14c0010d4,Reverse words,['python'],2022-11-15,Nov-22,reference,348179,85582,"['Strings', 'Fundamentals']",7 kyu,white
-236,585d7d5adb20cf33cb000235,Find the unique number,['python'],2022-11-15,Nov-22,reference,477139,97668,"['Fundamentals', 'Algorithms', 'Arrays']",6 kyu,yellow
-237,5715eaedb436cf5606000381,Sum of positive,['python'],2022-11-15,Nov-22,reference,444898,197222,"['Arrays', 'Fundamentals']",8 kyu,white
-238,56676e8fabd2d1ff3000000c,A Needle in the Haystack,['python'],2022-11-15,Nov-22,reference,230614,98320,"['Arrays', 'Fundamentals']",8 kyu,white
-239,558fc85d8fd1938afb000014,Sum of two lowest positive integers,['python'],2022-11-15,Nov-22,reference,435157,155789,"['Arrays', 'Fundamentals']",7 kyu,white
-240,54ff3102c1bad923760001f3,Vowel Count,['python'],2022-11-15,Nov-22,reference,750280,295235,"['Strings', 'Fundamentals']",7 kyu,white
-241,5656b6906de340bd1b0000ac,Two to One,['python'],2022-11-15,Nov-22,reference,349521,121528,['Fundamentals'],7 kyu,white
-242,5583090cbe83f4fd8c000051,Convert number to reversed array of digits,['python'],2022-11-15,Nov-22,reference,340003,109700,"['Arrays', 'Fundamentals']",8 kyu,white
-243,54edbc7200b811e956000556,Counting sheep...,['python'],2022-11-15,Nov-22,reference,441348,152548,"['Arrays', 'Fundamentals']",8 kyu,white
-244,54ba84be607a92aa900000f1,Isograms,['python'],2022-11-15,Nov-22,reference,570458,180131,"['Strings', 'Fundamentals']",7 kyu,white
-245,5390bac347d09b7da40006f6,Jaden Casing Strings,['python'],2022-11-15,Nov-22,reference,631335,177451,"['Strings', 'Fundamentals']",7 kyu,white
-246,56dec885c54a926dcd001095,Opposite number,['python'],2022-11-15,Nov-22,reference,427053,230965,['Fundamentals'],8 kyu,white
-247,56bc28ad5bdaeb48760009b0,Remove First and Last Character,['python'],2022-11-15,Nov-22,reference,411717,183819,"['Strings', 'Fundamentals']",8 kyu,white
-248,55c45be3b2079eccff00010f,"Your order,  please",['python'],2022-11-15,Nov-22,reference,421144,122550,"['Strings', 'Fundamentals']",6 kyu,yellow
-249,554e4a2f232cdd87d9000038,Complementary DNA,['python'],2022-11-15,Nov-22,reference,408358,164281,"['Strings', 'Fundamentals']",7 kyu,white
-250,5a34af40e1ce0eb1f5000036,CSV representation of array,['python'],2022-11-15,Nov-22,reference,28662,11002,"['Fundamentals', 'Arrays', 'Strings']",8 kyu,white
-251,56747fd5cb988479af000028,Get the Middle Character,['python'],2022-11-15,Nov-22,reference,569133,199356,"['Fundamentals', 'Strings']",7 kyu,white
-252,5803ee0ed5438edcc9000087,Padovan numbers,['python'],2022-11-15,Nov-22,algorithms,3873,1364,['Algorithms'],6 kyu,yellow
-253,54da539698b8a2ad76000228,Take a Ten Minutes Walk,['python'],2022-11-14,Nov-22,reference,632772,144880,"['Arrays', 'Fundamentals']",6 kyu,yellow
-254,5467e4d82edf8bbf40000155,Descending Order,['python'],2022-11-14,Nov-22,reference,716567,195676,['Fundamentals'],7 kyu,white
-255,5265326f5fda8eb1160004c8,Convert a Number to a String!,['python'],2022-11-14,Nov-22,reference,383112,222249,"['Strings', 'Fundamentals']",8 kyu,white
-256,515e271a311df0350d00000f,Square(n) Sum,['python'],2022-11-14,Nov-22,reference,381590,162577,"['Arrays', 'Lists', 'Fundamentals']",8 kyu,white
-257,55f2b110f61eb01779000053,Beginner Series #3 Sum of Numbers,['python'],2022-11-14,Nov-22,reference,654386,150656,"['Fundamentals', 'Algorithms']",7 kyu,white
-258,55908aad6620c066bc00002a,Exes and Ohs,['python'],2022-11-14,Nov-22,reference,591078,179499,['Fundamentals'],7 kyu,white
-259,546e2562b03326a88e000020,Square Every Digit,['python'],2022-11-14,Nov-22,reference,661939,222731,"['Mathematics', 'Fundamentals']",7 kyu,white
-260,53da3dbb4a5168369a0000fe,Even or Odd,['python'],2022-11-14,Nov-22,reference,633817,308929,"['Mathematics', 'Fundamentals']",8 kyu,white
-261,53369039d7ab3ac506000467,Convert boolean values to strings 'Yes' or 'No'.,['python'],2022-11-14,Nov-22,reference,382140,210348,['Fundamentals'],8 kyu,white
-262,51ba717bb08c1cd60f00002f,Range Extraction,['python'],2022-11-14,Nov-22,algorithms,223419,40679,['Algorithms'],4 kyu,blue
-263,529bf0e9bdf7657179000008,Sudoku Solution Validator,['python'],2022-11-14,Nov-22,algorithms,325518,41719,"['Data Structures', 'Algorithms']",4 kyu,blue
-264,5324945e2ece5e1f32000370,Sum Strings as Numbers,['python'],2022-11-11,Nov-22,algorithms,508844,30169,"['Strings', 'Big Integers', 'Algorithms']",4 kyu,blue
-265,521c2db8ddc89b9b7a0000c1,Snail,['python'],2022-11-09,Nov-22,algorithms,409723,55201,"['Arrays', 'Algorithms']",4 kyu,blue
-266,546d15cebed2e10334000ed9,Find the unknown digit,['python'],2022-11-07,Nov-22,games,86299,5974,"['Mathematics', 'Algorithms', 'Puzzles']",4 kyu,blue
-267,55c6126177c9441a570000cc,Weight for weight,['python'],2022-11-07,Nov-22,algorithms,314675,42067,['Algorithms'],5 kyu,yellow
-268,52bc74d4ac05d0945d00054e,First non-repeating character,['python'],2022-11-06,Nov-22,algorithms,295939,46992,"['Strings', 'Algorithms']",5 kyu,yellow
-269,5541f58a944b85ce6d00006a,Product of consecutive Fib numbers,['python'],2022-11-06,Nov-22,reference,186976,50457,"['Algorithms', 'Mathematics']",5 kyu,yellow
-270,525c65e51bf619685c000059,"Pete, the baker",['python'],2022-11-06,Nov-22,algorithms,188845,51917,['Algorithms'],5 kyu,yellow
-271,514a024011ea4fb54200004b,Extract the domain name from a URL,['python'],2022-11-06,Nov-22,reference,396015,53922,"['Parsing', 'Regular Expressions']",5 kyu,yellow
-272,525f3eda17c7cd9f9e000b39,Calculating with Functions,['python'],2022-11-06,Nov-22,reference,228210,60011,['Functional Programming'],5 kyu,yellow
-273,52449b062fb80683ec000024,The Hashtag Generator,['python'],2022-11-06,Nov-22,algorithms,240014,63168,"['Strings', 'Algorithms']",5 kyu,yellow
-274,530e15517bc88ac656000716,Rot13,['python'],2022-11-06,Nov-22,reference,329835,66528,"['Ciphers', 'Fundamentals']",5 kyu,yellow
-275,513e08acc600c94f01000001,RGB To Hex Conversion,['python'],2022-11-05,Nov-22,algorithms,347005,90457,['Algorithms'],5 kyu,yellow
-276,52774a314c2333f0a7000688,Valid Parentheses,['python'],2022-11-05,Nov-22,algorithms,549707,91834,['Algorithms'],5 kyu,yellow
-277,52597aa56021e91c93000cb0,Moving Zeros To The End,['python'],2022-11-05,Nov-22,algorithms,494741,119645,"['Arrays', 'Sorting', 'Algorithms']",5 kyu,yellow
-278,520b9d2ad5c005041100000f,Simple Pig Latin,['python'],2022-11-05,Nov-22,algorithms,652796,118973,"['Regular Expressions', 'Algorithms']",5 kyu,yellow
-279,522551eee9abb932420004a0,N-th Fibonacci,['python'],2022-11-04,Nov-22,algorithms,51128,15311,['Algorithms'],6 kyu,yellow
-280,54bf1c2cd5b56cc47f0007a1,Counting Duplicates,['python'],2022-11-04,Nov-22,reference,691055,167759,"['Strings', 'Fundamentals']",6 kyu,yellow
-281,526571aae218b8ee490006f4,Bit Counting,['python'],2022-11-02,Nov-22,algorithms,442457,180164,"['Bits', 'Algorithms']",6 kyu,yellow
-282,5264d2b162488dc400000001,Stop gninnipS My sdroW!,['python'],2022-11-02,Nov-22,algorithms,717695,197527,"['Strings', 'Algorithms']",6 kyu,yellow
-283,541c8630095125aba6000c00,Sum of Digits / Digital Root,['python'],2022-11-02,Nov-22,algorithms,804939,203224,"['Mathematics', 'Algorithms']",6 kyu,yellow
-284,54da5a58ea159efa38000836,Find the odd int,['python'],2022-11-02,Nov-22,reference,648672,221391,['Fundamentals'],6 kyu,yellow
-285,5266876b8f4bf2da9b000362,Who likes it?,['python'],2022-11-02,Nov-22,reference,745129,241449,"['Strings', 'Fundamentals']",6 kyu,yellow
-286,514b92a657cdc65150000006,Multiples of 3 or 5,['python'],2022-11-02,Nov-22,algorithms,911016,305711,"['Mathematics', 'Algorithms']",6 kyu,yellow
-287,582001237a3a630ce8000a41,Using Window Functions To Get Top N per Group,['sql'],2022-10-18,Oct-22,reference,23124,2238,"['SQL', 'Fundamentals', 'Databases']",5 kyu,yellow
-288,5812a2a2492760dfca000450,SQL Basics: Simple Hierarchical structure,['sql'],2022-10-12,Oct-22,reference,13300,2275,"['SQL', 'Fundamentals']",5 kyu,yellow
-289,589cf45835f99b2909000115,Calculating  Running Total,['sql'],2022-10-12,Oct-22,reference,28236,3683,"['Fundamentals', 'Databases', 'SQL']",5 kyu,yellow
-290,5817b124e7f4576fd00020a2,Relational division: Find all movies two actors cast in together,['sql'],2022-10-12,Oct-22,reference,27563,6127,"['Fundamentals', 'Databases', 'SQL']",5 kyu,yellow
-291,59be9f425227ddd60c00003b,SELECT prime numbers,['sql'],2022-10-11,Oct-22,games,30172,2233,"['Mathematics', 'Databases']",6 kyu,yellow
-292,5982020284a83baf2f00001c,SQL Basics: Simple PIVOTING data WITHOUT CROSSTAB,['sql'],2022-10-11,Oct-22,reference,13172,2714,"['Fundamentals', 'SQL', 'Databases']",6 kyu,yellow
-293,594257d4db68b6e99200002c,SQL: Regex AlphaNumeric Split,['sql'],2022-10-11,Oct-22,reference,19671,2717,"['Fundamentals', 'Regular Expressions', 'SQL']",6 kyu,yellow
-294,5811010104adbba24b0002fe,SQL Basics: Create a FUNCTION (DATES),['sql'],2022-10-11,Oct-22,reference,44571,2917,"['SQL', 'Fundamentals']",6 kyu,yellow
-295,581676828906324b8b00059e,SQL Basics: Simple FULL TEXT SEARCH,['sql'],2022-10-11,Oct-22,reference,10922,3838,"['SQL', 'Fundamentals']",6 kyu,yellow
-296,5816a3ecf54413a113000074,Conditional Count,['sql'],2022-10-11,Oct-22,reference,37074,5895,"['SQL', 'Fundamentals', 'Databases']",6 kyu,yellow
-297,582cba7d3be8ce3a8300007c,SQL Bug Fixing: Fix the QUERY - Totaling,['sql'],2022-10-11,Oct-22,reference,32386,7176,"['Fundamentals', 'SQL', 'Data Science']",6 kyu,yellow
-298,5811501c2d35672d4f000146,SQL Basics: Simple WITH,['sql'],2022-10-11,Oct-22,reference,27452,7191,"['SQL', 'Fundamentals']",6 kyu,yellow
-299,593ef0e98b90525e090000b9,SQL Basics - Monsters using CASE,['sql'],2022-10-11,Oct-22,reference,36052,8904,"['Fundamentals', 'SQL']",6 kyu,yellow
-300,5dac87a0abe9f1001f39e36d,Analyzing the sales by product and date,['sql'],2022-10-10,Oct-22,algorithms,18032,1793,['Algorithms'],6 kyu,yellow
-301,58112f8004adbbdb500004fe,SQL Basics: Simple UNION ALL,['sql'],2022-10-10,Oct-22,reference,51926,10079,"['SQL', 'Fundamentals']",6 kyu,yellow
-302,5db039743affec0027375de0,Present XML data the SQL way,['sql'],2022-10-10,Oct-22,reference,3900,340,"['Fundamentals', 'SQL', 'Data Science']",6 kyu,yellow
-303,5994dafcbddc2f116d000024,Calculating Batting Average,['sql'],2022-10-08,Oct-22,reference,42265,4704,"['SQL', 'Fundamentals']",6 kyu,yellow
-304,580d08b5c049aef8f900007c,SQL Basics: Top 10 customers by total payments amount,['sql'],2022-10-08,Oct-22,reference,43974,10692,"['Fundamentals', 'SQL', 'Data Science']",6 kyu,yellow
-305,58094559c47d323ebd000035,SQL Basics: Simple JOIN and RANK,['sql'],2022-10-08,Oct-22,reference,56842,10711,"['SQL', 'Fundamentals']",6 kyu,yellow
-306,58113a64e10b53ec36000293,SQL Basics: Simple EXISTS,['sql'],2022-10-08,Oct-22,reference,63282,10922,"['SQL', 'Fundamentals']",6 kyu,yellow
-307,58164ddf890632ce00000220,SQL Basics: Simple HAVING ,['sql'],2022-10-08,Oct-22,reference,37586,15351,"['SQL', 'Fundamentals']",6 kyu,yellow
-308,5811315e04adbbdb5000050e,SQL Basics: Simple NULL handling,['sql'],2022-10-07,Oct-22,reference,41238,6621,"['SQL', 'Fundamentals']",6 kyu,yellow
-309,5818bde9559ff58bd90004a2,Challenge: Two actors who cast together the most,['sql'],2022-09-29,Sep-22,reference,31362,2680,"['SQL', 'Fundamentals', 'Databases']",4 kyu,blue
-310,5e5f09dc0a17be0023920f6f,Countries Capitals for Trivia Night (SQL for Beginners #6),['sql'],2022-09-24,Sep-22,reference,38957,8710,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",7 kyu,white
-311,58126aa90ea99769e7000119,SQL Basics: Simple PIVOTING data,['sql'],2022-09-23,Sep-22,reference,19445,2250,"['SQL', 'Fundamentals']",5 kyu,yellow
-312,5daf515c3affec002b2fb921,Present JSON data the SQL way,['sql'],2022-09-23,Sep-22,reference,9813,872,"['SQL', 'Data Science', 'JSON']",6 kyu,yellow
-313,58241d05e7a162c5b100010f,Count Weekdays,['sql'],2022-09-23,Sep-22,reference,27163,1168,"['SQL', 'Fundamentals', 'Databases']",5 kyu,yellow
-314,58167fa1f544130dcf000317,"SQL Statistics: MIN, MEDIAN, MAX",['sql'],2022-09-23,Sep-22,reference,32917,4818,"['SQL', 'Statistics', 'Fundamentals']",5 kyu,yellow
-315,5811597e9d278beb04000038,SQL Basics: Group By Day,['sql'],2022-09-23,Sep-22,reference,29340,6132,"['SQL', 'Fundamentals']",5 kyu,yellow
-316,526989a41034285187000de4,Count IP Addresses,['sql'],2022-09-23,Sep-22,algorithms,64404,16992,['Algorithms'],5 kyu,yellow
-317,594323fde53209e94700012a,Subqueries master,['sql'],2022-09-23,Sep-22,reference,13523,1321,['Fundamentals'],6 kyu,yellow
-318,5820176255c3d23f360000a9,Using LATERAL JOIN To Get Top N per Group,['sql'],2022-09-19,Sep-22,reference,17394,1562,"['SQL', 'Fundamentals', 'Databases']",5 kyu,yellow
-319,5811527d9d278b242f000006,SQL Basics: Simple VIEW,['sql'],2022-09-19,Sep-22,reference,34880,3329,"['SQL', 'Fundamentals']",5 kyu,yellow
-320,5809575e166583acfa000083,SQL Basics: Simple table totaling.,['sql'],2022-09-19,Sep-22,reference,74709,8327,"['SQL', 'Fundamentals']",6 kyu,yellow
-321,5a8ed96bfd8c066e7f00011a,GROCERY STORE: Support Local Products,['sql'],2022-06-27,Jun-22,reference,28780,6783,"['SQL', 'Databases', 'Fundamentals']",7 kyu,white
-322,59401c25c15cbeb58d000028,SQL Basics - Trimming the Field,['sql'],2022-06-27,Jun-22,reference,35598,5995,"['Fundamentals', 'SQL']",7 kyu,white
-323,58113c03009b4fcc66000d29,SQL Basics: Simple IN,['sql'],2022-06-27,Jun-22,reference,52503,10604,"['SQL', 'Fundamentals']",6 kyu,yellow
-324,520446778469526ec0000001,Nesting Structure Comparison,['python'],2022-06-26,Jun-22,algorithms,187910,15844,"['Arrays', 'Algorithms']",4 kyu,blue
-325,580fb94e12b34dd1c40001f0,SQL Bug Fixing: Fix the JOIN,['sql'],2022-06-26,Jun-22,reference,86250,7601,"['SQL', 'Fundamentals']",6 kyu,yellow
-326,580918e24a85b05ad000010c,SQL Basics: Simple JOIN with COUNT,['sql'],2022-06-25,Jun-22,reference,59951,15718,"['SQL', 'Databases', 'Fundamentals']",7 kyu,white
-327,5629db57620258aa9d000014,Strings Mix,['python'],2022-06-24,Jun-22,reference,146574,18730,"['Fundamentals', 'Strings']",4 kyu,blue
-328,559a28007caad2ac4e000083,Perimeter of squares in a rectangle,['python'],2022-06-22,Jun-22,algorithms,110464,31442,"['Mathematics', 'Algorithms']",5 kyu,yellow
-329,550f22f4d758534c1100025a,Directions Reduction,['python'],2022-06-22,Jun-22,reference,458720,67327,['Fundamentals'],5 kyu,yellow
-330,52efefcbcdf57161d4000091,Count characters in your string,['python'],2022-06-22,Jun-22,reference,125655,55288,"['Strings', 'Fundamentals']",6 kyu,yellow
-331,54a91a4883a7de5d7800009c,String incrementer,['python'],2022-06-22,Jun-22,reference,330933,33409,"['Regular Expressions', 'Strings']",5 kyu,yellow
-332,52742f58faf5485cae000b9a,Human readable duration format,['python'],2022-06-21,Jun-22,algorithms,474683,59308,"['Strings', 'Date Time', 'Algorithms']",4 kyu,blue
-333,52685f7382004e774f0001f7,Human Readable Time,['python'],2022-06-20,Jun-22,algorithms,284979,102751,"['Date Time', 'Mathematics', 'Algorithms']",5 kyu,yellow
-334,523a86aa4230ebb5420001e1,Where my anagrams at?,['python'],2022-06-20,Jun-22,algorithms,309067,83126,"['Strings', 'Algorithms']",5 kyu,yellow
-335,51c8e37cee245da6b40000bd,Strip Comments,['python'],2022-06-19,Jun-22,algorithms,388968,39635,"['Strings', 'Algorithms']",4 kyu,blue
-336,5842df8ccbd22792a4000245,Write Number in Expanded Form,['python'],2022-06-19,Jun-22,reference,241486,55968,"['Strings', 'Mathematics', 'Algorithms', 'Fundamentals']",6 kyu,yellow
-337,5287e858c6b5a9678200083c,Does my number look big in this?,['python'],2022-06-19,Jun-22,algorithms,321838,114319,['Algorithms'],6 kyu,yellow
-338,523f5d21c841566fde000009,Array.diff,['python'],2022-06-19,Jun-22,reference,730600,198351,"['Arrays', 'Fundamentals', 'Algorithms']",6 kyu,yellow
-339,51b62bf6a9c58071c600001b,Roman Numerals Encoder,['python'],2022-06-19,Jun-22,algorithms,172657,40693,['Algorithms'],6 kyu,yellow
-340,56a5d994ac971f1ac500003e,Consecutive strings,['python'],2022-06-19,Jun-22,reference,434159,60245,['Fundamentals'],6 kyu,yellow
-341,550554fd08b86f84fe000a58,Which are  in?,['python'],2022-06-18,Jun-22,refactoring,293360,63230,"['Arrays', 'Lists', 'Strings', 'Refactoring']",6 kyu,yellow
-342,54521e9ec8e60bc4de000d6c,Maximum  subarray sum,['python'],2022-06-18,Jun-22,reference,331687,59792,"['Algorithms', 'Lists', 'Dynamic Programming', 'Fundamentals']",5 kyu,yellow
-343,5208f99aee097e6552000148,Break camelCase,['python'],2022-06-18,Jun-22,reference,192687,71048,"['Strings', 'Fundamentals']",6 kyu,yellow
-344,55fd2d567d94ac3bc9000064,Sum of odd numbers,['python'],2022-06-18,Jun-22,reference,321100,119155,"['Arrays', 'Lists', 'Mathematics', 'Fundamentals']",7 kyu,white
-345,55bf01e5a717a0d57e0000ec,Persistent Bugger.,['python'],2022-06-18,Jun-22,reference,512981,144847,['Fundamentals'],6 kyu,yellow
-346,55b42574ff091733d900002f,Friend or Foe?,['python'],2022-06-18,Jun-22,reference,287019,129577,['Fundamentals'],7 kyu,white
-347,5552101f47fc5178b1000050,Playing with digits,['python'],2022-06-18,Jun-22,reference,402528,104664,"['Fundamentals', 'Mathematics']",6 kyu,yellow
-348,525f50e3b73515a6db000b83,Create Phone Number,['python'],2022-06-18,Jun-22,algorithms,573783,238202,"['Arrays', 'Strings', 'Regular Expressions', 'Algorithms']",6 kyu,yellow
-349,50654ddff44f800200000004,Multiply,['python'],2022-06-18,Jun-22,bug_fixes,6504188,5367887,"['Debugging', 'Fundamentals']",8 kyu,white
+0,58d248c7012397a81800005c,Find out whether the shape is a cube,['python'],2023-02-14,Feb-23,reference,29108,8949,['Fundamentals'],8 kyu,white
+1,57e1e61ba396b3727c000251,String cleaning,['python'],2023-02-14,Feb-23,reference,39416,17688,"['Regular Expressions', 'Fundamentals', 'Strings']",8 kyu,white
+2,555a67db74814aa4ee0001b5,Is it even?,['python'],2023-02-14,Feb-23,reference,70482,38630,['Fundamentals'],8 kyu,white
+3,54df2067ecaa226eca000229,Gauß needs help! (Sums  of a lot of numbers).,['python'],2023-02-13,Feb-23,reference,126876,13011,"['Fundamentals', 'Mathematics', 'Performance']",7 kyu,white
+4,5420fc9bb5b2c7fd57000004,Highest Rank Number in an Array,['python'],2023-02-13,Feb-23,reference,71029,12093,"['Arrays', 'Fundamentals']",6 kyu,yellow
+5,580dda86c40fa6c45f00028a,Sum of Odd Cubed Numbers,['python'],2023-02-13,Feb-23,reference,39843,8034,"['Fundamentals', 'Functional Programming', 'Arrays']",7 kyu,white
+6,57a049e253ba33ac5e000212,Factorial,['python'],2023-02-13,Feb-23,reference,39406,18068,['Fundamentals'],7 kyu,white
+7,56dbe0e313c2f63be4000b25,Moves in squared strings (I),['python'],2023-02-13,Feb-23,reference,46952,11251,"['Fundamentals', 'Algorithms', 'Strings']",7 kyu,white
+8,5410c0e6a0e736cf5b000e69,Hamming Distance,['python'],2023-02-13,Feb-23,algorithms,11731,5614,['Algorithms'],6 kyu,yellow
+9,56a3f08aa9a6cc9b75000023,Simple validation of a username with regex,['python'],2023-02-12,Feb-23,reference,68266,17727,"['Regular Expressions', 'Fundamentals']",8 kyu,white
+10,51f9d93b4095e0a7200001b8,How many lightsabers do you own?,['python'],2023-02-12,Feb-23,reference,89692,30045,['Fundamentals'],8 kyu,white
+11,5a03b3f6a1c9040084001765,Sum of angles,['python'],2023-02-12,Feb-23,reference,49253,25982,"['Geometry', 'Fundamentals']",7 kyu,white
+12,58b8c94b7df3f116eb00005b,Simple Fun #176: Reverse Letter,['python'],2023-02-11,Feb-23,reference,87618,24456,['Fundamentals'],7 kyu,white
+13,57cff961eca260b71900008f,Is there a vowel in there?,['python'],2023-02-11,Feb-23,reference,30620,10594,"['Fundamentals', 'Strings', 'Arrays']",8 kyu,white
+14,582dafb611d576b745000b74,For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre,['python'],2023-02-08,Feb-23,reference,31222,10454,['Fundamentals'],8 kyu,white
+15,563a631f7cbbc236cf0000c2,Grasshopper - Terminal game move function,['python'],2023-02-08,Feb-23,reference,56848,40491,['Fundamentals'],8 kyu,white
+16,5dd462a573ee6d0014ce715b,Check same case,['python'],2023-02-08,Feb-23,reference,48158,15083,['Fundamentals'],8 kyu,white
+17,5783d8f3202c0e486c001d23,Convert an array of strings to array of numbers,['python'],2023-02-08,Feb-23,reference,17563,9397,"['Arrays', 'Parsing', 'Strings', 'Fundamentals']",7 kyu,white
+18,56b29582461215098d00000f,Lario and Muigi Pipe Problem,['python'],2023-02-08,Feb-23,reference,55338,23302,"['Lists', 'Fundamentals']",8 kyu,white
+19,569d488d61b812a0f7000015,Data Reverse,['python'],2023-02-08,Feb-23,reference,62893,18836,"['Arrays', 'Fundamentals']",6 kyu,yellow
+20,565f5825379664a26b00007c,Surface  Area and Volume of a Box,['python'],2023-02-07,Feb-23,reference,40867,19260,"['Geometry', 'Fundamentals']",8 kyu,white
+21,57ed30dde7728215300005fa,Bumps in the Road,['python'],2023-02-06,Feb-23,reference,37981,14260,"['Fundamentals', 'Strings']",7 kyu,white
+22,559f80b87fa8512e3e0000f5,Are arrow functions odd?,['python'],2023-02-06,Feb-23,reference,18251,11186,['Fundamentals'],8 kyu,white
+23,5a523566b3bfa84c2e00010b,Minimize  Sum Of Array (Array Series #1)   ,['python'],2023-02-06,Feb-23,reference,34743,11955,"['Fundamentals', 'Arrays']",7 kyu,white
+24,57158fb92ad763bb180004e7,Fix your code before the garden dies! ,['python'],2023-02-06,Feb-23,reference,34541,10835,"['Fundamentals', 'Debugging']",8 kyu,white
+25,59377c53e66267c8f6000027,Alphabet war,['python'],2023-02-03,Feb-23,reference,36410,12554,"['Fundamentals', 'Strings']",7 kyu,white
+26,582e0e592029ea10530009ce,Duck Duck Goose,['python'],2023-02-03,Feb-23,reference,47041,9235,"['Arrays', 'Lists', 'Fundamentals']",8 kyu,white
+27,56dae9dc54c0acd29d00109a,Grasshopper - Function syntax debugging,['python'],2023-02-03,Feb-23,reference,29420,20561,['Fundamentals'],8 kyu,white
+28,555eded1ad94b00403000071,Sum of the first nth term of Series,['python'],2023-02-03,Feb-23,reference,379690,69796,['Fundamentals'],7 kyu,white
+29,559d2284b5bb6799e9000047,Add Length,['python'],2023-01-31,Jan-23,reference,39790,18573,"['Arrays', 'Lists', 'Fundamentals']",8 kyu,white
+30,56f3a1e899b386da78000732,Parts of a list,['python'],2023-01-31,Jan-23,reference,46395,12598,"['Arrays', 'Lists', 'Data Structures', 'Algorithms']",7 kyu,white
+31,55a5befdf16499bffb00007b,Fundamentals: Return,['python'],2023-01-31,Jan-23,reference,31547,12163,['Fundamentals'],8 kyu,white
+32,545991b4cbae2a5fda000158,Enumerable Magic - Does My List Include This?,['python'],2023-01-31,Jan-23,reference,29121,16423,['Fundamentals'],8 kyu,white
+33,58bf9bd943fadb2a980000a7,Who is going to pay for the wall?,['python'],2023-01-31,Jan-23,reference,27464,9445,"['Fundamentals', 'Strings']",8 kyu,white
+34,56a946cd7bd95ccab2000055,Regex count lowercase letters,['python'],2023-01-29,Jan-23,reference,31789,12767,"['Fundamentals', 'Regular Expressions', 'Algorithms']",8 kyu,white
+35,56a25ba95df27b7743000016,validate code with simple regex,['python'],2023-01-29,Jan-23,reference,25055,9884,"['Regular Expressions', 'Fundamentals']",8 kyu,white
+36,58fa273ca6d84c158e000052,Number of Decimal Digits,['python'],2023-01-29,Jan-23,reference,38307,19710,"['Strings', 'Fundamentals']",7 kyu,white
+37,5810085c533d69f4980001cf,simple calculator ,['python'],2023-01-29,Jan-23,reference,56092,10747,['Fundamentals'],8 kyu,white
+38,57cebe1dc6fdc20c57000ac9,Shortest Word,['python'],2023-01-29,Jan-23,reference,490624,184472,['Fundamentals'],7 kyu,white
+39,52f3149496de55aded000410,Summing  a number's digits,['python'],2023-01-29,Jan-23,reference,93636,27386,['Fundamentals'],7 kyu,white
+40,5641a03210e973055a00000d,Formatting decimal places #0,['python'],2023-01-15,Jan-23,reference,29144,14365,['Fundamentals'],8 kyu,white
+41,53697be005f803751e0015aa,The Vowel Code,['python'],2023-01-15,Jan-23,reference,40155,14813,"['Arrays', 'Strings', 'Regular Expressions', 'Fundamentals']",6 kyu,yellow
+42,58daa7617332e59593000006,Most digits,['python'],2023-01-15,Jan-23,reference,78975,12669,"['Strings', 'Fundamentals']",7 kyu,white
+43,525c1a07bb6dda6944000031,Kata Example Twist,['python'],2023-01-15,Jan-23,reference,37668,15465,['Fundamentals'],8 kyu,white
+44,5748838ce2fab90b86001b1a,Area of a Square,['python'],2023-01-09,Jan-23,reference,47540,16023,"['Fundamentals', 'Mathematics', 'Geometry']",8 kyu,white
+45,5612e743cab69fec6d000077,Grasshopper - Variable Assignment Debug,['python'],2023-01-09,Jan-23,reference,26399,16689,['Fundamentals'],8 kyu,white
+46,54147087d5c2ebe4f1000805,The 'if' function,['python'],2023-01-09,Jan-23,reference,79378,24059,"['Functional Programming', 'Fundamentals']",8 kyu,white
+47,5b73fe9fb3d9776fbf00009e,Sum of differences in array,['python'],2023-01-06,Jan-23,reference,83399,16253,"['Arrays', 'Fundamentals']",8 kyu,white
+48,58dbdccee5ee8fa2f9000058,"Do you speak ""English""?",['python'],2023-01-05,Jan-23,reference,38669,12620,['Fundamentals'],8 kyu,white
+49,57e921d8b36340f1fd000059,Holiday VI - Shark Pontoon,['python'],2023-01-05,Jan-23,reference,80508,14641,"['Fundamentals', 'Mathematics']",8 kyu,white
+50,570597e258b58f6edc00230d,Remove First and Last Character Part Two,['python'],2023-01-05,Jan-23,reference,110996,15777,"['Fundamentals', 'Arrays', 'Strings']",8 kyu,white
+51,5a431c0de1ce0ec33a00000c,Even numbers in an array,['python'],2023-01-05,Jan-23,reference,33535,12425,"['Fundamentals', 'Arrays']",7 kyu,white
+52,56e2f59fb2ed128081001328,Printing Array elements with Comma delimiters,['python'],2023-01-05,Jan-23,reference,40737,17205,"['Arrays', 'Fundamentals']",8 kyu,white
+53,569e09850a8e371ab200000b,Pre-FizzBuzz Workout #1,['python'],2023-01-05,Jan-23,reference,32703,17228,['Fundamentals'],8 kyu,white
+54,51fd6bc82bc150b28e0000ce,No oddities here,['python'],2023-01-05,Jan-23,reference,67273,24269,"['Arrays', 'Fundamentals']",7 kyu,white
+55,5848565e273af816fb000449,Encrypt this!,['python'],2023-01-05,Jan-23,reference,78116,17486,"['Fundamentals', 'Strings', 'Regular Expressions', 'Arrays', 'Ciphers', 'Algorithms', 'Cryptography', 'Security']",6 kyu,yellow
+56,580a4734d6df748060000045,Sorted? yes? no? how?,['python'],2023-01-05,Jan-23,reference,75177,16125,"['Arrays', 'Sorting', 'Fundamentals']",7 kyu,white
+57,55d277882e139d0b6000005d,Grasshopper - Array Mean,['python'],2023-01-05,Jan-23,reference,31418,15251,"['Arrays', 'Lists', 'Fundamentals']",8 kyu,white
+58,54dc6f5a224c26032800005c,Help the bookseller !,['python'],2023-01-05,Jan-23,reference,170094,23478,"['Fundamentals', 'Algorithms']",6 kyu,yellow
+59,5202ef17a402dd033c000009,Title Case,['python'],2023-01-05,Jan-23,reference,225294,31102,"['Strings', 'Fundamentals']",6 kyu,yellow
+60,5506b230a11c0aeab3000c1f,Deodorant Evaporator,['python'],2022-12-13,Dec-22,reference,77406,22669,['Fundamentals'],7 kyu,white
+61,53f0f358b9cb376eca001079,Regular Ball Super Ball,['python'],2022-12-13,Dec-22,reference,68104,28694,['Fundamentals'],8 kyu,white
+62,534d2f5b5371ecf8d2000a08,Multiplication table,['python'],2022-12-12,Dec-22,reference,57420,23880,"['Arrays', 'Fundamentals']",6 kyu,yellow
+63,5d5ee4c35162d9001af7d699,Sum of Minimums!,['python'],2022-12-12,Dec-22,reference,39935,18798,"['Fundamentals', 'Arrays']",7 kyu,white
+64,5aff237c578a14752d0035ae,Predict your age!,['python'],2022-12-12,Dec-22,reference,46609,18461,['Fundamentals'],7 kyu,white
+65,56efc695740d30f963000557,altERnaTIng cAsE <=> ALTerNAtiNG CaSe,['python'],2022-12-12,Dec-22,reference,108151,40789,['Fundamentals'],8 kyu,white
+66,545a4c5a61aa4c6916000755,Find the middle element,['python'],2022-12-12,Dec-22,reference,73467,24296,"['Arrays', 'Fundamentals']",7 kyu,white
+67,5302d846be2a9189af0001e4,Welcome to the City,['python'],2022-12-12,Dec-22,reference,52948,16731,"['Strings', 'Fundamentals']",8 kyu,white
+68,534e01fbbb17187c7e0000c6,Make a spiral,['python'],2022-12-01,Dec-22,algorithms,79743,11318,"['Algorithms', 'Arrays', 'Logic']",3 kyu,blue
+69,52bb6539a4cf1b12d90005b7,Battleship field validator,['python'],2022-12-01,Dec-22,algorithms,127255,11347,"['Games', 'Arrays', 'Algorithms']",3 kyu,blue
+70,526dbd6c8c0eb53254000110,Not very secure,['python'],2022-11-30,Nov-22,bug_fixes,152864,28381,"['Regular Expressions', 'Strings']",5 kyu,yellow
+71,52e1476c8147a7547a000811,Regex Password Validation,['python'],2022-11-30,Nov-22,reference,201699,22829,"['Regular Expressions', 'Fundamentals']",5 kyu,yellow
+72,5270d0d18625160ada0000e4,Greed is Good,['python'],2022-11-29,Nov-22,algorithms,232434,39303,['Algorithms'],5 kyu,yellow
+73,55c04b4cc56a697bb0000048,Scramblies,['python'],2022-11-29,Nov-22,algorithms,287299,41487,"['Strings', 'Performance', 'Algorithms']",5 kyu,yellow
+74,52f787eb172a8b4ae1000a34,Number of trailing zeros of N!,['python'],2022-11-29,Nov-22,algorithms,294417,42068,"['Algorithms', 'Logic', 'Mathematics']",5 kyu,yellow
+75,54b724efac3d5402db00065e,Decode the Morse code ,['python'],2022-11-28,Nov-22,algorithms,939513,94303,['Algorithms'],6 kyu,yellow
+76,515de9ae9dcfc28eb6000001,Split Strings,['python'],2022-11-27,Nov-22,algorithms,327524,108331,"['Regular Expressions', 'Strings', 'Algorithms']",6 kyu,yellow
+77,517abf86da9663f1d2000003,Convert string to camel case,['python'],2022-11-27,Nov-22,algorithms,613128,138602,"['Regular Expressions', 'Algorithms', 'Strings']",6 kyu,yellow
+78,5526fc09a1bbd946250002dc,Find The Parity Outlier,['python'],2022-11-27,Nov-22,algorithms,610940,169207,['Algorithms'],6 kyu,yellow
+79,52c31f8e6605bcc646000082,Two Sum,['python'],2022-11-27,Nov-22,reference,172305,51616,"['Arrays', 'Fundamentals', 'Algorithms']",6 kyu,yellow
+80,5b180e9fedaa564a7000009a,Fix string case,['python'],2022-11-27,Nov-22,reference,51853,21384,['Fundamentals'],7 kyu,white
+81,59fca81a5712f9fa4700159a,Convert to Binary,['python'],2022-11-27,Nov-22,reference,54600,25058,"['Mathematics', 'Algorithms', 'Fundamentals']",8 kyu,white
+82,59cfc000aeb2844d16000075,Alternate capitalization,['python'],2022-11-27,Nov-22,reference,59768,21495,"['Strings', 'Fundamentals']",7 kyu,white
+83,58ca658cc0d6401f2700045f,Find Multiples of a Number,['python'],2022-11-27,Nov-22,reference,69947,27388,"['Fundamentals', 'Arrays']",8 kyu,white
+84,57e92e91b63b6cbac20001e5,Holiday VIII - Duty Free,['python'],2022-11-27,Nov-22,reference,54291,22538,"['Fundamentals', 'Mathematics']",8 kyu,white
+85,57ee99a16c8df7b02d00045f,Flatten and sort an array,['python'],2022-11-27,Nov-22,reference,50999,19333,"['Arrays', 'Sorting', 'Fundamentals']",7 kyu,white
+86,56530b444e831334c0000020,Determine offspring sex based on genes XX and XY chromosomes,['python'],2022-11-27,Nov-22,reference,31434,17210,['Fundamentals'],8 kyu,white
+87,55ecd718f46fba02e5000029,What is between?,['python'],2022-11-26,Nov-22,reference,70327,37666,"['Fundamentals', 'Algorithms']",8 kyu,white
+88,555086d53eac039a2a000083,Opposites Attract,['python'],2022-11-26,Nov-22,reference,223692,101051,['Fundamentals'],8 kyu,white
+89,54d512e62a5e54c96200019e,Primes in numbers,['python'],2022-11-25,Nov-22,reference,123750,23669,"['Fundamentals', 'Mathematics']",5 kyu,yellow
+90,53af2b8861023f1d88000832,Are You Playing Banjo?,['python'],2022-11-25,Nov-22,reference,217428,98444,"['Strings', 'Fundamentals']",8 kyu,white
+91,52ceafd1f235ce81aa00073a,Plural,['python'],2022-11-25,Nov-22,reference,54772,26562,['Fundamentals'],8 kyu,white
+92,57814d79a56c88e3e0000786,Simple Encryption #1 - Alternating Split,['python'],2022-11-25,Nov-22,reference,187665,23718,"['Cryptography', 'Algorithms', 'Strings', 'Arrays', 'Fundamentals']",6 kyu,yellow
+93,566fc12495810954b1000030,Count the Digit,['python'],2022-11-25,Nov-22,reference,118783,37073,['Fundamentals'],7 kyu,white
+94,5667e8f4e3f572a8f2000039,Mumbling,['python'],2022-11-25,Nov-22,reference,565658,178630,"['Fundamentals', 'Strings', 'Puzzles']",7 kyu,white
+95,53dbd5315a3c69eed20002dd,List Filtering,['python'],2022-11-25,Nov-22,reference,499311,198924,"['Lists', 'Filtering', 'Data Structures', 'Fundamentals']",7 kyu,white
+96,539ee3b6757843632d00026b,Find the capitals,['python'],2022-11-25,Nov-22,reference,76949,28032,"['Strings', 'Arrays', 'Fundamentals']",7 kyu,white
+97,5c8bfa44b9d1192e1ebd3d15,A wolf in sheep's clothing,['python'],2022-11-22,Nov-22,reference,71834,24946,"['Fundamentals', 'Arrays']",8 kyu,white
+98,59441520102eaa25260000bf,5 without numbers !!,['python'],2022-11-22,Nov-22,reference,70670,22582,"['Restricted', 'Fundamentals', 'Puzzles']",8 kyu,white
+99,57a55c8b72292d057b000594,Reversing Words in a String,['python'],2022-11-22,Nov-22,reference,65047,17077,"['Fundamentals', 'Strings']",8 kyu,white
+100,570a6a46455d08ff8d001002,No zeros for heros,['python'],2022-11-22,Nov-22,reference,68248,17906,['Fundamentals'],8 kyu,white
+101,56170e844da7c6f647000063,Drink about,['python'],2022-11-22,Nov-22,reference,72608,27334,['Fundamentals'],8 kyu,white
+102,5949481f86420f59480000e7,Odd or Even?,['python'],2022-11-22,Nov-22,reference,194461,93856,"['Fundamentals', 'Arrays']",7 kyu,white
+103,578553c3a1b8d5c40300037c,Ones and Zeros,['python'],2022-11-22,Nov-22,reference,274835,107797,"['Fundamentals', 'Arrays']",7 kyu,white
+104,5679aa472b8f57fb8c000047,Equal Sides Of An Array,['python'],2022-11-21,Nov-22,reference,404646,97211,"['Algorithms', 'Arrays', 'Fundamentals']",6 kyu,yellow
+105,55ad04714f0b468e8200001c,get character from ASCII Value,['python'],2022-11-21,Nov-22,reference,41495,24618,['Fundamentals'],8 kyu,white
+106,51f2b4448cadf20ed0000386,Remove anchor from URL,['python'],2022-11-21,Nov-22,reference,78921,30379,"['Regular Expressions', 'Strings', 'Fundamentals']",7 kyu,white
+107,57cfdf34902f6ba3d300001e,Sort and Star,['python'],2022-11-21,Nov-22,reference,96245,32253,"['Fundamentals', 'Strings', 'Arrays', 'Sorting']",8 kyu,white
+108,57a4d500e298a7952100035d,Hex to Decimal,['python'],2022-11-21,Nov-22,reference,47848,21892,['Fundamentals'],8 kyu,white
+109,56fa3c5ce4d45d2a52001b3c,"Exclusive ""or"" (xor) Logical Operator",['python'],2022-11-21,Nov-22,reference,46320,24807,['Fundamentals'],8 kyu,white
+110,563f037412e5ada593000114,"Money, Money, Money",['python'],2022-11-21,Nov-22,reference,102158,36316,['Fundamentals'],7 kyu,white
+111,545afd0761aa4c3055001386,Enumerable Magic #25 - Take the First N Elements,['python'],2022-11-21,Nov-22,reference,64939,20988,['Fundamentals'],8 kyu,white
+112,5ac6932b2f317b96980000ca,Form The Minimum,['python'],2022-11-21,Nov-22,reference,55730,20559,['Fundamentals'],7 kyu,white
+113,5a3fe3dde1ce0e8ed6000097,Century From Year,['python'],2022-11-21,Nov-22,reference,353250,134796,"['Fundamentals', 'Mathematics']",8 kyu,white
+114,5899dc03bc95b1bf1b0000ad,Invert values,['python'],2022-11-21,Nov-22,reference,222643,99578,"['Lists', 'Fundamentals', 'Arrays']",8 kyu,white
+115,586c1cf4b98de0399300001d,Grasshopper - Terminal game combat function,['python'],2022-11-21,Nov-22,reference,35647,19578,['Fundamentals'],8 kyu,white
+116,51b6249c4612257ac0000005,Roman Numerals Decoder,['python'],2022-11-21,Nov-22,algorithms,182327,37433,['Algorithms'],6 kyu,yellow
+117,51b66044bce5799a7f000003,Roman Numerals Helper,['python'],2022-11-21,Nov-22,algorithms,127276,19878,['Algorithms'],4 kyu,blue
+118,57ec8bd8f670e9a47a000f89,The Wide-Mouthed frog! ,['python'],2022-11-20,Nov-22,reference,84254,24356,"['Strings', 'Logic', 'Fundamentals']",8 kyu,white
+119,57eae20f5500ad98e50002c5,Remove String Spaces,['python'],2022-11-20,Nov-22,reference,345898,172626,"['Fundamentals', 'Strings']",8 kyu,white
+120,54bf85e3d5b56c7a05000cf9,Testing 1-2-3,['python'],2022-11-20,Nov-22,reference,99565,46502,"['Arrays', 'Fundamentals']",7 kyu,white
+121,5174a4c0f2769dd8b1000003,Sort Numbers,['python'],2022-11-20,Nov-22,reference,129142,42289,['Fundamentals'],7 kyu,white
+122,5808dcb8f0ed42ae34000031,Switch it Up!,['python'],2022-11-20,Nov-22,reference,116954,49902,['Fundamentals'],8 kyu,white
+123,574b3b1599d8f897470018f6,What's the real floor?,['python'],2022-11-20,Nov-22,reference,114995,27881,['Fundamentals'],8 kyu,white
+124,56200d610758762fb0000002,Grasshopper - Basic Function Fixer,['python'],2022-11-20,Nov-22,reference,32944,25700,['Fundamentals'],8 kyu,white
+125,55a2d7ebe362935a210000b2,Find the smallest integer in the array,['python'],2022-11-20,Nov-22,reference,350176,177586,['Fundamentals'],8 kyu,white
+126,578aa45ee9fd15ff4600090d,Sort the odd,['python'],2022-11-20,Nov-22,reference,302505,79045,"['Fundamentals', 'Arrays', 'Sorting']",6 kyu,yellow
+127,571d42206414b103dc0006a1,Filling an array (part 1),['python'],2022-11-20,Nov-22,reference,74757,27531,"['Arrays', 'Fundamentals']",8 kyu,white
+128,55d1d6d5955ec6365400006d,Round up to the next multiple of 5,['python'],2022-11-20,Nov-22,reference,67699,24243,['Fundamentals'],7 kyu,white
+129,55a5bfaa756cfede78000026,Super Duper Easy,['python'],2022-11-20,Nov-22,reference,57282,21027,['Fundamentals'],8 kyu,white
+130,54b42f9314d9229fd6000d9c,Duplicate Encoder,['python'],2022-11-20,Nov-22,reference,692693,167421,"['Strings', 'Arrays', 'Fundamentals']",6 kyu,yellow
+131,5ce9c1000bab0b001134f5af,Quarter of the year,['python'],2022-11-20,Nov-22,reference,143816,70267,"['Fundamentals', 'Mathematics']",8 kyu,white
+132,5865918c6b569962950002a1,All Star Code Challenge #18,['python'],2022-11-20,Nov-22,reference,69938,36042,"['Fundamentals', 'Strings']",8 kyu,white
+133,57fae964d80daa229d000126,Exclamation marks series #1: Remove an exclamation mark from the end of string,['python'],2022-11-20,Nov-22,reference,80428,20479,"['Fundamentals', 'Strings']",8 kyu,white
+134,57a083a57cb1f31db7000028,Powers of 2,['python'],2022-11-20,Nov-22,reference,96736,40034,"['Mathematics', 'Fundamentals']",8 kyu,white
+135,57356c55867b9b7a60000bd7,Basic Mathematical Operations,['python'],2022-11-20,Nov-22,reference,250479,133155,"['Mathematics', 'Fundamentals']",8 kyu,white
+136,57202aefe8d6c514300001fd,Training JS #7: if..else and ternary operator,['python'],2022-11-20,Nov-22,reference,50735,25886,"['Fundamentals', 'Tutorials']",8 kyu,white
+137,5626b561280a42ecc50000d1,Take a Number And Sum  Its Digits Raised To The Consecutive Powers And ....¡Eureka!!,['python'],2022-11-20,Nov-22,reference,134468,43088,"['Fundamentals', 'Mathematics']",6 kyu,yellow
+138,53da6d8d112bd1a0dc00008b,Reverse List Order,['python'],2022-11-20,Nov-22,reference,54127,30342,"['Lists', 'Fundamentals']",8 kyu,white
+139,57cc975ed542d3148f00015b,You only need one - Beginner,['python'],2022-11-20,Nov-22,reference,170707,88595,"['Fundamentals', 'Strings', 'Arrays']",8 kyu,white
+140,5625618b1fe21ab49f00001f,Grasshopper - Debug sayHello,['python'],2022-11-20,Nov-22,reference,70374,41895,['Fundamentals'],8 kyu,white
+141,529eef7a9194e0cbc1000255,Anagram Detection,['python'],2022-11-20,Nov-22,reference,110701,34045,"['Strings', 'Fundamentals']",7 kyu,white
+142,52b7ed099cdc285c300001cd,Sum of Intervals,['python'],2022-11-19,Nov-22,algorithms,239340,28961,"['Algorithms', 'Performance']",4 kyu,blue
+143,5254ca2719453dcc0b00027d,So Many Permutations!,['python'],2022-11-19,Nov-22,algorithms,163253,36868,"['Permutations', 'Strings', 'Algorithms']",4 kyu,blue
+144,5263c6999e0f40dee200059d,The observed PIN,['python'],2022-11-19,Nov-22,algorithms,130416,27491,['Algorithms'],4 kyu,blue
+145,59821d485a49f4d71f00000b,SQLonacci sequence,['sql'],2022-11-19,Nov-22,algorithms,9735,1199,"['Algorithms', 'SQL']",5 kyu,yellow
+146,5977b6641e250a661a0000f0,Counting overlapping events,['sql'],2022-11-19,Nov-22,algorithms,30538,963,"['SQL', 'Algorithms']",5 kyu,yellow
+147,580fe518cefeff16d00000c0,SQL Basics: Create a FUNCTION,['sql'],2022-11-18,Nov-22,reference,25346,5848,"['SQL', 'Fundamentals']",7 kyu,white
+148,5802e32dd8c944e562000020,SQL Basics: Simple JOIN,['sql'],2022-11-18,Nov-22,reference,65126,17882,"['Databases', 'Fundamentals', 'SQL']",7 kyu,white
+149,581283eb0a5fb13e06000020,Hello SQL World!,['sql'],2022-11-18,Nov-22,reference,47276,8577,"['Fundamentals', 'SQL']",7 kyu,white
+150,591127cbe8b9fb05bd00004b,Best-Selling Books (SQL for Beginners #5),['sql'],2022-11-18,Nov-22,reference,43590,18823,"['Fundamentals', 'SQL', 'Databases']",7 kyu,white
+151,59401e0e54a655a298000040,SQL Basics - Position,['sql'],2022-11-18,Nov-22,reference,23247,9312,"['Fundamentals', 'SQL']",7 kyu,white
+152,59414360f5c3947364000070,SQL Basics: Repeat and Reverse,['sql'],2022-11-18,Nov-22,reference,22775,8738,"['Fundamentals', 'SQL']",7 kyu,white
+153,59413d53f5c3947364000016,SQL: Regex String to Table,['sql'],2022-11-18,Nov-22,reference,11269,2051,"['Fundamentals', 'Regular Expressions', 'SQL']",7 kyu,white
+154,5942b066db68b6f35f000084,SQL: Regex Replace,['sql'],2022-11-18,Nov-22,reference,28349,4703,"['Fundamentals', 'Regular Expressions', 'SQL']",7 kyu,white
+155,5943a58f95d5f72cb900006a,SQL: Right and Left,['sql'],2022-11-18,Nov-22,reference,25465,5789,"['Fundamentals', 'SQL']",7 kyu,white
+156,5943b797d8c9432eb7000066,SQL: Padding Encryption,['sql'],2022-11-18,Nov-22,reference,12529,3286,"['Fundamentals', 'SQL']",7 kyu,white
+157,59440034e94fae05b2000073,SQL: Concatenating Columns,['sql'],2022-11-18,Nov-22,reference,30557,11127,"['Fundamentals', 'Strings', 'SQL']",7 kyu,white
+158,594633020a561e329a0000a2,Easy SQL: Counting and Grouping,['sql'],2022-11-18,Nov-22,reference,30260,12166,"['Fundamentals', 'SQL']",7 kyu,white
+159,594804a218e96caa8d00051b,Easy SQL: ASCII Converter,['sql'],2022-11-18,Nov-22,reference,12092,5311,"['Fundamentals', 'Strings', 'SQL']",7 kyu,white
+160,59491429952ac97ad9000106,SQL: Bytes in String from Ints,['sql'],2022-11-18,Nov-22,reference,12545,2817,"['Fundamentals', 'Strings', 'SQL']",7 kyu,white
+161,594a6ad320ac16a54400007f,Easy SQL: Cube Root and Natural Log,['sql'],2022-11-18,Nov-22,reference,28057,5855,"['Fundamentals', 'Mathematics', 'SQL']",7 kyu,white
+162,594a8f653b5b4e8f3d000035,SQL Basics: Raise to the Power,['sql'],2022-11-18,Nov-22,reference,15667,9800,"['Fundamentals', 'Mathematics', 'SQL']",7 kyu,white
+163,594a8f2f7ca3c692a4000041,Easy SQL: Absolute Value and Log to Base,['sql'],2022-11-18,Nov-22,reference,26724,5935,"['Fundamentals', 'Mathematics', 'SQL']",7 kyu,white
+164,5a8eb3fb57c562110f0000a1,GROCERY STORE: Inventory,['sql'],2022-11-18,Nov-22,reference,35071,8757,"['SQL', 'Databases', 'Fundamentals']",7 kyu,white
+165,594900e16fd782a607000059,Easy SQL: Bit Length,['sql'],2022-11-18,Nov-22,reference,19944,6982,"['Fundamentals', 'Strings', 'SQL']",7 kyu,white
+166,5a8ec692b17101bfc70001ba,GROCERY STORE:  Logistic Optimisation,['sql'],2022-11-18,Nov-22,reference,19908,5173,"['SQL', 'Databases', 'Fundamentals']",7 kyu,white
+167,5a8f00745084d718940000c5,GROCERY STORE: Real Price!,['sql'],2022-11-18,Nov-22,reference,54639,3298,"['SQL', 'Databases', 'Fundamentals']",7 kyu,white
+168,5ab7a736edbcfc8e62000007,SQL with Sailor Moon: Thinking about JOINs...,['sql'],2022-11-18,Nov-22,reference,23159,6617,"['Fundamentals', 'SQL', 'Databases']",7 kyu,white
+169,5ab828bcedbcfc65ea000099,SQL with Pokemon:  Damage Multipliers,['sql'],2022-11-18,Nov-22,reference,39351,6119,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",7 kyu,white
+170,5abcf0f930488ff1a6000b66,SQL with Harry Potter: Sorting Hat Comparators,['sql'],2022-11-18,Nov-22,reference,32071,7507,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",7 kyu,white
+171,5ac698cdd325ad18a3000170,SQL with Street Fighter: Total Wins,['sql'],2022-11-18,Nov-22,reference,63207,7257,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",7 kyu,white
+172,5ad90fb688a0b74111000055,SQL with LOTR: Elven Wildcards,['sql'],2022-11-18,Nov-22,reference,36884,7834,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",7 kyu,white
+173,5809508cc47d327c12000084,SQL Basics: Simple WHERE and ORDER BY,['sql'],2022-11-17,Nov-22,reference,35746,19053,"['SQL', 'Filtering', 'Databases', 'Fundamentals']",8 kyu,white
+174,5809b9ef88b750ab180001ec,1. Find all active students,['sql'],2022-11-17,Nov-22,algorithms,33974,11352,"['Databases', 'SQL']",8 kyu,white
+175,58110da0009b4f7ef80000ad,SQL Basics: Simple SUM,['sql'],2022-11-17,Nov-22,reference,26815,16539,"['SQL', 'Fundamentals']",8 kyu,white
+176,581113dce10b531b1d0000bd,SQL Basics: Simple MIN / MAX,['sql'],2022-11-17,Nov-22,reference,35353,16187,"['SQL', 'Fundamentals']",8 kyu,white
+177,58111670e10b53be31000108,SQL Basics: Simple DISTINCT,['sql'],2022-11-17,Nov-22,reference,24279,17580,"['SQL', 'Fundamentals']",8 kyu,white
+178,582365c18917435ab3000020,SQL Grasshopper: Select Columns,['sql'],2022-11-17,Nov-22,reference,22272,15215,"['SQL', 'Fundamentals']",8 kyu,white
+179,590a95eede09f87472000213,Adults only  (SQL for Beginners #1),['sql'],2022-11-17,Nov-22,reference,40074,24961,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",8 kyu,white
+180,590ba881fe13cfdcc20001b4,On the Canadian Border (SQL for Beginners #2),['sql'],2022-11-17,Nov-22,reference,44827,20019,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",8 kyu,white
+181,590cc86f7557c0494000007e,Register for the Party (SQL for Beginners #3),['sql'],2022-11-17,Nov-22,reference,38497,16314,"['Fundamentals', 'SQL', 'Databases']",8 kyu,white
+182,5910b0d378cc2ba91400000b,Collect Tuition (SQL for Beginners #4),['sql'],2022-11-17,Nov-22,reference,29832,17962,"['Fundamentals', 'SQL', 'Databases']",8 kyu,white
+183,593ed37c93350098d600001d,Easy SQL - Ordering,['sql'],2022-11-17,Nov-22,reference,23949,15665,"['Fundamentals', 'SQL']",8 kyu,white
+184,594800ba6fb152624300006d,Easy SQL: LowerCase,['sql'],2022-11-17,Nov-22,reference,28680,12142,"['Fundamentals', 'Strings', 'SQL']",8 kyu,white
+185,594a50bafd3b7031c1000013,Easy SQL: Convert to Hexadecimal,['sql'],2022-11-17,Nov-22,reference,24403,7553,"['Fundamentals', 'SQL']",8 kyu,white
+186,594a6133704e4daf5d00003d,Easy SQL: Rounding Decimals,['sql'],2022-11-17,Nov-22,reference,31306,10560,"['Fundamentals', 'SQL']",8 kyu,white
+187,594a691720ac16a544000075,Easy SQL: Square Root and Log,['sql'],2022-11-17,Nov-22,reference,17477,6990,"['Fundamentals', 'Mathematics', 'SQL']",8 kyu,white
+188,5a8d94d3ba1bb569e5000198,BASICS: Length based SELECT  with LIKE,['sql'],2022-11-17,Nov-22,reference,25459,8327,"['Fundamentals', 'SQL', 'Databases']",7 kyu,white
+189,59cb550486a6fd10b50000ad,SQL: Disorder,['sql'],2022-11-17,Nov-22,reference,15727,4184,"['Fundamentals', 'SQL']",7 kyu,white
+190,58111f4ee10b5301a7000175,SQL Basics: Simple GROUP BY,['sql'],2022-11-17,Nov-22,reference,42150,18458,"['SQL', 'Fundamentals']",7 kyu,white
+191,595a3ba3843b0cbf8e000004,SQL Basics: Up and Down,['sql'],2022-11-17,Nov-22,reference,26464,6638,"['Fundamentals', 'SQL']",7 kyu,white
+192,594a8fa5a2db9e5f290000c3,SQL Basics: Truncating,['sql'],2022-11-17,Nov-22,reference,34475,5885,"['Fundamentals', 'Mathematics', 'SQL']",7 kyu,white
+193,594a389387a7c6a77a000005,Easy SQL: Moving Values,['sql'],2022-11-17,Nov-22,reference,20606,4020,"['Fundamentals', 'Strings', 'SQL']",7 kyu,white
+194,594901ba44645fd7bd00005f,SQL Basics:  Maths with String Manipulations,['sql'],2022-11-17,Nov-22,reference,24157,7654,"['Fundamentals', 'Strings', 'SQL']",7 kyu,white
+195,594a9592704e4d21bc000131,SQL Basics: Mod,['sql'],2022-11-17,Nov-22,reference,22353,12715,"['Fundamentals', 'Mathematics', 'SQL']",8 kyu,white
+196,583710ccaa6717322c000105,Simple multiplication,['python'],2022-11-17,Nov-22,reference,141947,95684,['Fundamentals'],8 kyu,white
+197,576757b1df89ecf5bd00073b,Build Tower,['python'],2022-11-17,Nov-22,reference,254312,73993,"['Strings', 'ASCII Art', 'Fundamentals']",6 kyu,yellow
+198,559ac78160f0be07c200005a,Name Shuffler,['python'],2022-11-17,Nov-22,reference,49831,26351,"['Strings', 'Fundamentals']",8 kyu,white
+199,5544c7a5cb454edb3c000047,Bouncing Balls,['python'],2022-11-17,Nov-22,reference,353370,69771,"['Puzzles', 'Algorithms', 'Mathematics']",6 kyu,yellow
+200,57a6633153ba33189e000074,Ordered Count of Characters,['python'],2022-11-17,Nov-22,reference,44991,10924,['Fundamentals'],7 kyu,white
+201,545cedaa9943f7fe7b000048,Detect Pangram,['python'],2022-11-17,Nov-22,reference,497735,125979,"['Strings', 'Data Structures', 'Fundamentals']",6 kyu,yellow
+202,5ad0d8356165e63c140014d4,Student's Final Grade,['python'],2022-11-17,Nov-22,reference,188857,38171,['Fundamentals'],8 kyu,white
+203,5966e33c4e686b508700002d,Sum The Strings,['python'],2022-11-17,Nov-22,reference,136439,35550,['Fundamentals'],8 kyu,white
+204,56b1f01c247c01db92000076,Double Char,['python'],2022-11-17,Nov-22,reference,106868,53455,"['Fundamentals', 'Strings']",8 kyu,white
+205,542c0f198e077084c0000c2e,Count the divisors of a number,['python'],2022-11-17,Nov-22,reference,107399,50577,"['Number Theory', 'Mathematics', 'Fundamentals']",7 kyu,white
+206,523b623152af8a30c6000027,Function 2 - squaring an argument,['python'],2022-11-17,Nov-22,reference,72154,45955,['Fundamentals'],8 kyu,white
+207,586f6741c66d18c22800010a,Sum of a sequence,['python'],2022-11-17,Nov-22,reference,96215,32412,"['Fundamentals', 'Algorithms', 'Mathematics']",7 kyu,white
+208,57ee4a67108d3fd9eb0000e7,Filter out the geese,['python'],2022-11-17,Nov-22,reference,73399,31490,"['Arrays', 'Fundamentals']",8 kyu,white
+209,57a1fd2ce298a731b20006a4,Is it a palindrome?,['python'],2022-11-17,Nov-22,reference,96466,35495,['Fundamentals'],8 kyu,white
+210,577ff15ad648a14b780000e7,Welcome!,['python'],2022-11-17,Nov-22,reference,105266,34122,['Fundamentals'],8 kyu,white
+211,5601409514fc93442500010b,How good are you really?,['python'],2022-11-17,Nov-22,reference,199755,85525,['Fundamentals'],8 kyu,white
+212,55a70521798b14d4750000a4,Returning Strings,['python'],2022-11-17,Nov-22,reference,236698,135582,"['Strings', 'Fundamentals']",8 kyu,white
+213,557cd6882bfa3c8a9f0000c1,Parse nice int from char problem,['python'],2022-11-17,Nov-22,reference,105479,51738,['Fundamentals'],8 kyu,white
+214,52fba66badcd10859f00097e,Disemvowel Trolls,['python'],2022-11-17,Nov-22,reference,755968,256889,"['Strings', 'Regular Expressions', 'Fundamentals']",7 kyu,white
+215,583f158ea20cfcbeb400000a,Make a function that does arithmetic!,['python'],2022-11-17,Nov-22,reference,69740,39024,['Fundamentals'],7 kyu,white
+216,57f24e6a18e9fad8eb000296,"I love you,  a little ,  a lot,  passionately ... not at all",['python'],2022-11-17,Nov-22,reference,161660,35625,"['Arrays', 'Fundamentals']",8 kyu,white
+217,563b662a59afc2b5120000c6,Growth of a Population,['python'],2022-11-17,Nov-22,reference,767257,127608,['Fundamentals'],7 kyu,white
+218,5502c9e7b3216ec63c0001aa,Categorize New Member,['python'],2022-11-17,Nov-22,reference,309567,121886,['Fundamentals'],7 kyu,white
+219,57f609022f4d534f05000024,Find the stray number,['python'],2022-11-17,Nov-22,reference,200470,46987,"['Fundamentals', 'Algorithms']",7 kyu,white
+220,57ea5b0b75ae11d1e800006c,Sort array by string length,['python'],2022-11-17,Nov-22,reference,65340,29195,"['Sorting', 'Arrays', 'Fundamentals']",7 kyu,white
+221,56cd44e1aa4ac7879200010b,Is the string uppercase?,['python'],2022-11-17,Nov-22,reference,143491,41008,"['Fundamentals', 'Strings']",8 kyu,white
+222,5672a98bdbdd995fad00000f,Rock Paper Scissors!,['python'],2022-11-17,Nov-22,reference,159897,67816,['Fundamentals'],8 kyu,white
+223,5b853229cfde412a470000d0,Twice as old,['python'],2022-11-17,Nov-22,reference,100295,48080,"['Fundamentals', 'Mathematics']",8 kyu,white
+224,5ae62fcf252e66d44d00008e,Expressions Matter ,['python'],2022-11-17,Nov-22,reference,112632,39971,"['Algorithms', 'Fundamentals']",8 kyu,white
+225,58cb43f4256836ed95000f97,Difference of Volumes of Cuboids,['python'],2022-11-17,Nov-22,reference,78907,35901,['Fundamentals'],8 kyu,white
+226,58261acb22be6e2ed800003a,Volume of a Cuboid,['python'],2022-11-17,Nov-22,reference,87648,64649,"['Geometry', 'Fundamentals', 'Mathematics']",8 kyu,white
+227,577bd026df78c19bca0002c0,Correct the mistakes of the character recognition software,['python'],2022-11-17,Nov-22,reference,95407,37347,"['Fundamentals', 'Strings']",8 kyu,white
+228,56269eb78ad2e4ced1000013,Find the next perfect square!,['python'],2022-11-17,Nov-22,reference,315772,123979,"['Algebra', 'Fundamentals']",7 kyu,white
+229,554b4ac871d6813a03000035,Highest and Lowest,['python'],2022-11-17,Nov-22,reference,770244,224802,"['Fundamentals', 'Strings']",7 kyu,white
+230,51f2d1cafc9c0f745c00037d,String ends with?,['python'],2022-11-17,Nov-22,reference,502028,141523,"['Strings', 'Fundamentals']",7 kyu,white
+231,58649884a1659ed6cb000072,Thinkful - Logic Drills: Traffic light,['python'],2022-11-17,Nov-22,reference,97832,60695,['Fundamentals'],8 kyu,white
+232,583203e6eb35d7980400002a,Count the smiley faces!,['python'],2022-11-17,Nov-22,reference,325761,71800,"['Regular Expressions', 'Fundamentals']",6 kyu,yellow
+233,57e76bc428d6fbc2d500036d,Convert a string to an array,['python'],2022-11-17,Nov-22,reference,142114,78914,"['Arrays', 'Strings', 'Fundamentals']",8 kyu,white
+234,577a98a6ae28071780000989,Find Maximum and Minimum Values of a List,['python'],2022-11-17,Nov-22,reference,183036,89140,['Fundamentals'],8 kyu,white
+235,56c5847f27be2c3db20009c3,Subtract the Sum,['python'],2022-11-17,Nov-22,games,78572,17201,"['Puzzles', 'Strings', 'Number Theory', 'Mathematics']",8 kyu,white
+236,55f73be6e12baaa5900000d4,Grasshopper - Messi goals function,['python'],2022-11-17,Nov-22,reference,79377,54962,['Fundamentals'],8 kyu,white
+237,55983863da40caa2c900004e,Next bigger number with the same digits,['python'],2022-11-16,Nov-22,refactoring,437346,28259,"['Strings', 'Refactoring']",4 kyu,blue
+238,5a6663e9fd56cb5ab800008b,"Cat years, Dog years",['python'],2022-11-16,Nov-22,reference,81214,38145,['Fundamentals'],8 kyu,white
+239,568dcc3c7f12767a62000038,L1: Set Alarm,['python'],2022-11-16,Nov-22,reference,99564,58769,"['Fundamentals', 'Logic']",8 kyu,white
+240,563cf89eb4747c5fb100001b,Remove the minimum,['python'],2022-11-16,Nov-22,reference,339882,58463,"['Lists', 'Arrays', 'Fundamentals']",7 kyu,white
+241,55f9b48403f6b87a7c0000bd,Beginner Series #1 School Paperwork,['python'],2022-11-16,Nov-22,reference,209861,99931,['Fundamentals'],8 kyu,white
+242,550498447451fbbd7600041c,"Are they the ""same""?",['python'],2022-11-16,Nov-22,reference,1660010,82481,['Fundamentals'],6 kyu,yellow
+243,58f8a3a27a5c28d92e000144,Find the first non-consecutive number,['python'],2022-11-16,Nov-22,reference,236097,48258,"['Arrays', 'Fundamentals']",8 kyu,white
+244,582cb0224e56e068d800003c,Keep Hydrated!,['python'],2022-11-16,Nov-22,reference,273805,141602,"['Algorithms', 'Mathematics', 'Fundamentals']",8 kyu,white
+245,57a0885cbb9944e24c00008e,Remove exclamation marks,['python'],2022-11-16,Nov-22,reference,157742,65082,"['Fundamentals', 'Strings']",8 kyu,white
+246,55cbc3586671f6aa070000fb,Grasshopper - Check for factor,['python'],2022-11-16,Nov-22,reference,75166,46213,"['Mathematics', 'Fundamentals']",8 kyu,white
+247,551b4501ac0447318f0009cd,Convert a Boolean to a String,['python'],2022-11-16,Nov-22,reference,203054,133343,"['Strings', 'Fundamentals']",8 kyu,white
+248,5ab6538b379d20ad880000ab,Area or Perimeter,['python'],2022-11-16,Nov-22,reference,102733,62227,"['Fundamentals', 'Mathematics', 'Geometry']",8 kyu,white
+249,57f781872e3d8ca2a000007e,Beginner - Lost Without a Map,['python'],2022-11-16,Nov-22,reference,243224,116943,"['Fundamentals', 'Arrays']",8 kyu,white
+250,55cbd4ba903825f7970000f5,Grasshopper - Grade book,['python'],2022-11-16,Nov-22,reference,135315,63584,['Fundamentals'],8 kyu,white
+251,5a023c426975981341000014,Third Angle of a Triangle,['python'],2022-11-16,Nov-22,reference,89503,65887,['Fundamentals'],8 kyu,white
+252,58f5c63f1e26ecda7e000029,Mexican Wave,['python'],2022-11-16,Nov-22,reference,170203,48931,"['Arrays', 'Strings', 'Fundamentals']",6 kyu,yellow
+253,5875b200d520904a04000003,Will there be enough space?,['python'],2022-11-16,Nov-22,reference,112935,45655,['Fundamentals'],8 kyu,white
+254,55cb632c1a5d7b3ad0000145,Keep up the hoop,['python'],2022-11-15,Nov-22,reference,87115,46238,['Fundamentals'],8 kyu,white
+255,554ca54ffa7d91b236000023,Delete occurrences of an element if it occurs more than n times,['python'],2022-11-15,Nov-22,reference,288006,72382,"['Lists', 'Fundamentals']",6 kyu,yellow
+256,57eaeb9578748ff92a000009,Sum Mixed Array,['python'],2022-11-15,Nov-22,reference,131983,61130,"['Fundamentals', 'Strings', 'Arrays']",8 kyu,white
+257,5772da22b89313a4d50012f7,Grasshopper - Personalized Message,['python'],2022-11-15,Nov-22,reference,126025,69566,"['Fundamentals', 'Strings']",8 kyu,white
+258,5769b3802ae6f8e4890009d2,Removing Elements,['python'],2022-11-15,Nov-22,reference,122427,44596,"['Lists', 'Arrays', 'Fundamentals']",8 kyu,white
+259,55fab1ffda3e2e44f00000c6,Beginner Series #4 Cockroach,['python'],2022-11-15,Nov-22,reference,141784,52224,['Fundamentals'],8 kyu,white
+260,53dc23c68a0c93699800041d,Sentence Smash,['python'],2022-11-15,Nov-22,reference,167581,82669,"['Strings', 'Arrays', 'Fundamentals']",8 kyu,white
+261,5aa736a455f906981800360d,The Feast of Many Beasts,['python'],2022-11-15,Nov-22,reference,114499,51667,"['Strings', 'Fundamentals']",8 kyu,white
+262,57eb8fcdf670e99d9b000272,Highest Scoring Word,['python'],2022-11-15,Nov-22,reference,277240,72036,"['Fundamentals', 'Strings', 'Arrays']",6 kyu,yellow
+263,57eadb7ecd143f4c9c0000a3,Abbreviate a Two Word Name,['python'],2022-11-15,Nov-22,reference,348612,111682,"['Strings', 'Fundamentals']",8 kyu,white
+264,559590633066759614000063,The highest profit wins!,['python'],2022-11-15,Nov-22,reference,128326,65219,"['Lists', 'Arrays', 'Fundamentals']",7 kyu,white
+265,5556282156230d0e5e000089,DNA to RNA Conversion,['python'],2022-11-15,Nov-22,reference,172040,85103,"['Fundamentals', 'Strings']",8 kyu,white
+266,57b06f90e298a7b53d000a86,The Supermarket Queue,['python'],2022-11-15,Nov-22,reference,238108,38097,"['Arrays', 'Fundamentals']",6 kyu,yellow
+267,576bb71bbbcf0951d5000044,Count of positives / sum of negatives,['python'],2022-11-15,Nov-22,reference,768195,95955,"['Fundamentals', 'Arrays', 'Lists']",8 kyu,white
+268,5648b12ce68d9daa6b000099,Number of People in the Bus,['python'],2022-11-15,Nov-22,reference,204917,104449,['Fundamentals'],7 kyu,white
+269,523b4ff7adca849afe000035,Function 1 - hello world,['python'],2022-11-15,Nov-22,reference,378609,165701,['Fundamentals'],8 kyu,white
+270,5168bb5dfe9a00b126000018,Reversed Strings,['python'],2022-11-15,Nov-22,reference,439121,228014,"['Strings', 'Fundamentals']",8 kyu,white
+271,5861d28f124b35723e00005e,Will you make it?,['python'],2022-11-15,Nov-22,reference,207636,86966,"['Mathematics', 'Fundamentals']",8 kyu,white
+272,57f780909f7e8e3183000078,Beginner - Reduce but Grow,['python'],2022-11-15,Nov-22,reference,165730,88831,"['Fundamentals', 'Arrays']",8 kyu,white
+273,57a429e253ba3381850000fb,Calculate BMI,['python'],2022-11-15,Nov-22,reference,223223,87597,['Fundamentals'],8 kyu,white
+274,57a0556c7cb1f31ab3000ad7,MakeUpperCase,['python'],2022-11-15,Nov-22,reference,161717,101045,"['Fundamentals', 'Strings']",8 kyu,white
+275,56541980fa08ab47a0000040,Printer Errors,['python'],2022-11-15,Nov-22,reference,353640,117500,['Fundamentals'],7 kyu,white
+276,55685cd7ad70877c23000102,Return Negative,['python'],2022-11-15,Nov-22,reference,518193,219860,['Fundamentals'],8 kyu,white
+277,551f37452ff852b7bd000139,Binary Addition,['python'],2022-11-15,Nov-22,reference,298824,127988,"['Binary', 'Fundamentals']",7 kyu,white
+278,5513795bd3fafb56c200049e,Count by X,['python'],2022-11-15,Nov-22,reference,167902,74958,"['Arrays', 'Fundamentals']",8 kyu,white
+279,5b077ebdaf15be5c7f000077,"If you can't sleep, just count sheep!!",['python'],2022-11-15,Nov-22,reference,186193,70554,"['Fundamentals', 'Strings']",8 kyu,white
+280,59ca8246d751df55cc00014c,Is he gonna survive?,['python'],2022-11-15,Nov-22,reference,167307,84805,['Fundamentals'],8 kyu,white
+281,576b93db1129fcf2200001e6,Sum without highest and lowest number,['python'],2022-11-15,Nov-22,reference,386635,57825,['Fundamentals'],8 kyu,white
+282,55f9bca8ecaa9eac7100004a,Beginner Series #2 Clock,['python'],2022-11-15,Nov-22,reference,172521,107981,['Fundamentals'],8 kyu,white
+283,57a2013acf1fa5bfc4000921,Calculate average ,['python'],2022-11-15,Nov-22,reference,268176,90428,"['Fundamentals', 'Arrays']",8 kyu,white
+284,57a0e5c372292dd76d000d7e,String repeat,['python'],2022-11-15,Nov-22,reference,416492,205797,"['Fundamentals', 'Strings']",8 kyu,white
+285,54e6533c92449cc251001667,Unique In Order,['python'],2022-11-15,Nov-22,reference,714047,141430,"['Algorithms', 'Fundamentals']",6 kyu,yellow
+286,53ee5429ba190077850011d4,You Can't Code Under Pressure #1,['python'],2022-11-15,Nov-22,reference,204969,128490,['Fundamentals'],8 kyu,white
+287,53dc54212259ed3d4f00071c,Sum Arrays,['python'],2022-11-15,Nov-22,reference,187967,98955,"['Arrays', 'Fundamentals']",8 kyu,white
+288,5a00e05cc374cb34d100000d,Reversed sequence ,['python'],2022-11-15,Nov-22,reference,192019,83426,['Fundamentals'],8 kyu,white
+289,56606694ec01347ce800001b,Is this a triangle?,['python'],2022-11-15,Nov-22,reference,425248,129864,"['Mathematics', 'Fundamentals']",7 kyu,white
+290,55d24f55d7dd296eb9000030,Grasshopper - Summation,['python'],2022-11-15,Nov-22,reference,345843,174139,"['Fundamentals', 'Mathematics']",8 kyu,white
+291,54c27a33fb7da0db0100040e,You're a square!,['python'],2022-11-15,Nov-22,reference,677623,210897,"['Fundamentals', 'Mathematics']",7 kyu,white
+292,57eae65a4321032ce000002d,Fake Binary,['python'],2022-11-15,Nov-22,reference,232719,89369,"['Fundamentals', 'Strings', 'Arrays']",8 kyu,white
+293,55f8a9c06c018a0d6e000132,Regex validate PIN code,['python'],2022-11-15,Nov-22,reference,719008,126430,"['Regular Expressions', 'Fundamentals']",7 kyu,white
+294,546f922b54af40e1e90001da,Replace With Alphabet Position,['python'],2022-11-15,Nov-22,reference,678840,153880,"['Strings', 'Fundamentals']",6 kyu,yellow
+295,5259b20d6021e9e14c0010d4,Reverse words,['python'],2022-11-15,Nov-22,reference,369917,92132,"['Strings', 'Fundamentals']",7 kyu,white
+296,585d7d5adb20cf33cb000235,Find the unique number,['python'],2022-11-15,Nov-22,reference,505890,104960,"['Fundamentals', 'Algorithms', 'Arrays']",6 kyu,yellow
+297,5715eaedb436cf5606000381,Sum of positive,['python'],2022-11-15,Nov-22,reference,466415,209259,"['Arrays', 'Fundamentals']",8 kyu,white
+298,56676e8fabd2d1ff3000000c,A Needle in the Haystack,['python'],2022-11-15,Nov-22,reference,244994,105973,"['Arrays', 'Fundamentals']",8 kyu,white
+299,558fc85d8fd1938afb000014,Sum of two lowest positive integers,['python'],2022-11-15,Nov-22,reference,450374,163245,"['Arrays', 'Fundamentals']",7 kyu,white
+300,54ff3102c1bad923760001f3,Vowel Count,['python'],2022-11-15,Nov-22,reference,779398,308586,"['Strings', 'Fundamentals']",7 kyu,white
+301,5656b6906de340bd1b0000ac,Two to One,['python'],2022-11-15,Nov-22,reference,360510,126928,['Fundamentals'],7 kyu,white
+302,5583090cbe83f4fd8c000051,Convert number to reversed array of digits,['python'],2022-11-15,Nov-22,reference,360337,117771,"['Arrays', 'Fundamentals']",8 kyu,white
+303,54edbc7200b811e956000556,Counting sheep...,['python'],2022-11-15,Nov-22,reference,466997,163375,"['Arrays', 'Fundamentals']",8 kyu,white
+304,54ba84be607a92aa900000f1,Isograms,['python'],2022-11-15,Nov-22,reference,591097,188216,"['Strings', 'Fundamentals']",7 kyu,white
+305,5390bac347d09b7da40006f6,Jaden Casing Strings,['python'],2022-11-15,Nov-22,reference,654066,184902,"['Strings', 'Fundamentals']",7 kyu,white
+306,56dec885c54a926dcd001095,Opposite number,['python'],2022-11-15,Nov-22,reference,448211,244835,['Fundamentals'],8 kyu,white
+307,56bc28ad5bdaeb48760009b0,Remove First and Last Character,['python'],2022-11-15,Nov-22,reference,434703,196452,"['Strings', 'Fundamentals']",8 kyu,white
+308,55c45be3b2079eccff00010f,"Your order,  please",['python'],2022-11-15,Nov-22,reference,433835,127962,"['Strings', 'Fundamentals']",6 kyu,yellow
+309,554e4a2f232cdd87d9000038,Complementary DNA,['python'],2022-11-15,Nov-22,reference,421364,171031,"['Strings', 'Fundamentals']",7 kyu,white
+310,5a34af40e1ce0eb1f5000036,CSV representation of array,['python'],2022-11-15,Nov-22,reference,30670,11823,"['Fundamentals', 'Arrays', 'Strings']",8 kyu,white
+311,56747fd5cb988479af000028,Get the Middle Character,['python'],2022-11-15,Nov-22,reference,585002,206809,"['Fundamentals', 'Strings']",7 kyu,white
+312,5803ee0ed5438edcc9000087,Padovan numbers,['python'],2022-11-15,Nov-22,algorithms,4114,1434,['Algorithms'],6 kyu,yellow
+313,54da539698b8a2ad76000228,Take a Ten Minutes Walk,['python'],2022-11-14,Nov-22,reference,657395,151266,"['Arrays', 'Fundamentals']",6 kyu,yellow
+314,5467e4d82edf8bbf40000155,Descending Order,['python'],2022-11-14,Nov-22,reference,741620,204920,['Fundamentals'],7 kyu,white
+315,5265326f5fda8eb1160004c8,Convert a Number to a String!,['python'],2022-11-14,Nov-22,reference,411061,239525,"['Strings', 'Fundamentals']",8 kyu,white
+316,515e271a311df0350d00000f,Square(n) Sum,['python'],2022-11-14,Nov-22,reference,408597,176512,"['Arrays', 'Lists', 'Fundamentals']",8 kyu,white
+317,55f2b110f61eb01779000053,Beginner Series #3 Sum of Numbers,['python'],2022-11-14,Nov-22,reference,687886,159230,"['Fundamentals', 'Algorithms']",7 kyu,white
+318,55908aad6620c066bc00002a,Exes and Ohs,['python'],2022-11-14,Nov-22,reference,613390,187429,['Fundamentals'],7 kyu,white
+319,546e2562b03326a88e000020,Digit*Digit,['python'],2022-11-14,Nov-22,reference,684770,233094,"['Mathematics', 'Fundamentals']",7 kyu,white
+320,53da3dbb4a5168369a0000fe,Even or Odd,['python'],2022-11-14,Nov-22,reference,691460,339837,"['Mathematics', 'Fundamentals']",8 kyu,white
+321,53369039d7ab3ac506000467,Convert boolean values to strings 'Yes' or 'No'.,['python'],2022-11-14,Nov-22,reference,408706,225476,['Fundamentals'],8 kyu,white
+322,51ba717bb08c1cd60f00002f,Range Extraction,['python'],2022-11-14,Nov-22,algorithms,232531,42611,['Algorithms'],4 kyu,blue
+323,529bf0e9bdf7657179000008,Sudoku Solution Validator,['python'],2022-11-14,Nov-22,algorithms,332615,42838,"['Data Structures', 'Algorithms']",4 kyu,blue
+324,5324945e2ece5e1f32000370,Sum Strings as Numbers,['python'],2022-11-11,Nov-22,algorithms,532631,31859,"['Strings', 'Big Integers', 'Algorithms']",4 kyu,blue
+325,521c2db8ddc89b9b7a0000c1,Snail,['python'],2022-11-09,Nov-22,algorithms,420343,57335,"['Arrays', 'Algorithms']",4 kyu,blue
+326,546d15cebed2e10334000ed9,Find the unknown digit,['python'],2022-11-07,Nov-22,games,88364,6135,"['Mathematics', 'Algorithms', 'Puzzles']",4 kyu,blue
+327,55c6126177c9441a570000cc,Weight for weight,['python'],2022-11-07,Nov-22,algorithms,322314,43711,['Algorithms'],5 kyu,yellow
+328,52bc74d4ac05d0945d00054e,First non-repeating character,['python'],2022-11-06,Nov-22,algorithms,307687,49175,"['Strings', 'Algorithms']",5 kyu,yellow
+329,5541f58a944b85ce6d00006a,Product of consecutive Fib numbers,['python'],2022-11-06,Nov-22,reference,192636,52268,"['Algorithms', 'Mathematics']",5 kyu,yellow
+330,525c65e51bf619685c000059,"Pete, the baker",['python'],2022-11-06,Nov-22,algorithms,199637,55092,['Algorithms'],5 kyu,yellow
+331,514a024011ea4fb54200004b,Extract the domain name from a URL,['python'],2022-11-06,Nov-22,reference,413011,56650,"['Parsing', 'Regular Expressions']",5 kyu,yellow
+332,525f3eda17c7cd9f9e000b39,Calculating with Functions,['python'],2022-11-06,Nov-22,reference,235906,62345,['Functional Programming'],5 kyu,yellow
+333,52449b062fb80683ec000024,The Hashtag Generator,['python'],2022-11-06,Nov-22,algorithms,252733,67397,"['Strings', 'Algorithms']",5 kyu,yellow
+334,530e15517bc88ac656000716,Rot13,['python'],2022-11-06,Nov-22,reference,339614,69376,"['Ciphers', 'Fundamentals']",5 kyu,yellow
+335,513e08acc600c94f01000001,RGB To Hex Conversion,['python'],2022-11-05,Nov-22,algorithms,366889,96982,['Algorithms'],5 kyu,yellow
+336,52774a314c2333f0a7000688,Valid Parentheses,['python'],2022-11-05,Nov-22,algorithms,569945,95876,['Algorithms'],5 kyu,yellow
+337,52597aa56021e91c93000cb0,Moving Zeros To The End,['python'],2022-11-05,Nov-22,algorithms,515785,126522,"['Arrays', 'Sorting', 'Algorithms']",5 kyu,yellow
+338,520b9d2ad5c005041100000f,Simple Pig Latin,['python'],2022-11-05,Nov-22,algorithms,680375,123970,"['Regular Expressions', 'Algorithms']",5 kyu,yellow
+339,522551eee9abb932420004a0,N-th Fibonacci,['python'],2022-11-04,Nov-22,algorithms,55972,16950,['Algorithms'],6 kyu,yellow
+340,54bf1c2cd5b56cc47f0007a1,Counting Duplicates,['python'],2022-11-04,Nov-22,reference,711424,174681,"['Strings', 'Fundamentals']",6 kyu,yellow
+341,526571aae218b8ee490006f4,Bit Counting,['python'],2022-11-02,Nov-22,algorithms,460175,188242,"['Bits', 'Algorithms']",6 kyu,yellow
+342,5264d2b162488dc400000001,Stop gninnipS My sdroW!,['python'],2022-11-02,Nov-22,algorithms,740779,206444,"['Strings', 'Algorithms']",6 kyu,yellow
+343,541c8630095125aba6000c00,Sum of Digits / Digital Root,['python'],2022-11-02,Nov-22,algorithms,834434,212914,"['Mathematics', 'Algorithms']",6 kyu,yellow
+344,54da5a58ea159efa38000836,Find the odd int,['python'],2022-11-02,Nov-22,reference,667106,229982,['Fundamentals'],6 kyu,yellow
+345,5266876b8f4bf2da9b000362,Who likes it?,['python'],2022-11-02,Nov-22,reference,776566,254463,"['Strings', 'Fundamentals']",6 kyu,yellow
+346,514b92a657cdc65150000006,Multiples of 3 or 5,['python'],2022-11-02,Nov-22,algorithms,946621,319433,"['Mathematics', 'Algorithms']",6 kyu,yellow
+347,582001237a3a630ce8000a41,Using Window Functions To Get Top N per Group,['sql'],2022-10-18,Oct-22,reference,23716,2321,"['SQL', 'Fundamentals', 'Databases']",5 kyu,yellow
+348,5812a2a2492760dfca000450,SQL Basics: Simple Hierarchical structure,['sql'],2022-10-12,Oct-22,reference,13484,2334,"['SQL', 'Fundamentals']",5 kyu,yellow
+349,589cf45835f99b2909000115,Calculating  Running Total,['sql'],2022-10-12,Oct-22,reference,28662,3786,"['Fundamentals', 'Databases', 'SQL']",5 kyu,yellow
+350,5817b124e7f4576fd00020a2,Relational division: Find all movies two actors cast in together,['sql'],2022-10-12,Oct-22,reference,28197,6298,"['Fundamentals', 'Databases', 'SQL']",5 kyu,yellow
+351,59be9f425227ddd60c00003b,SELECT prime numbers,['sql'],2022-10-11,Oct-22,games,30564,2285,"['Mathematics', 'Databases']",6 kyu,yellow
+352,5982020284a83baf2f00001c,SQL Basics: Simple PIVOTING data WITHOUT CROSSTAB,['sql'],2022-10-11,Oct-22,reference,13400,2802,"['Fundamentals', 'SQL', 'Databases']",6 kyu,yellow
+353,594257d4db68b6e99200002c,SQL: Regex AlphaNumeric Split,['sql'],2022-10-11,Oct-22,reference,19944,2775,"['Fundamentals', 'Regular Expressions', 'SQL']",6 kyu,yellow
+354,5811010104adbba24b0002fe,SQL Basics: Create a FUNCTION (DATES),['sql'],2022-10-11,Oct-22,reference,45258,2986,"['SQL', 'Fundamentals']",6 kyu,yellow
+355,581676828906324b8b00059e,SQL Basics: Simple FULL TEXT SEARCH,['sql'],2022-10-11,Oct-22,reference,11110,3927,"['SQL', 'Fundamentals']",6 kyu,yellow
+356,5816a3ecf54413a113000074,Conditional Count,['sql'],2022-10-11,Oct-22,reference,37586,6054,"['SQL', 'Fundamentals', 'Databases']",6 kyu,yellow
+357,582cba7d3be8ce3a8300007c,SQL Bug Fixing: Fix the QUERY - Totaling,['sql'],2022-10-11,Oct-22,reference,32907,7362,"['Fundamentals', 'SQL', 'Data Science']",6 kyu,yellow
+358,5811501c2d35672d4f000146,SQL Basics: Simple WITH,['sql'],2022-10-11,Oct-22,reference,27890,7367,"['SQL', 'Fundamentals']",6 kyu,yellow
+359,593ef0e98b90525e090000b9,SQL Basics - Monsters using CASE,['sql'],2022-10-11,Oct-22,reference,36683,9144,"['Fundamentals', 'SQL']",6 kyu,yellow
+360,5dac87a0abe9f1001f39e36d,Analyzing the sales by product and date,['sql'],2022-10-10,Oct-22,algorithms,18295,1833,['Algorithms'],6 kyu,yellow
+361,58112f8004adbbdb500004fe,SQL Basics: Simple UNION ALL,['sql'],2022-10-10,Oct-22,reference,53185,10300,"['SQL', 'Fundamentals']",6 kyu,yellow
+362,5db039743affec0027375de0,Present XML data the SQL way,['sql'],2022-10-10,Oct-22,reference,4058,368,"['Fundamentals', 'SQL', 'Data Science']",6 kyu,yellow
+363,5994dafcbddc2f116d000024,Calculating Batting Average,['sql'],2022-10-08,Oct-22,reference,42869,4823,"['SQL', 'Fundamentals']",6 kyu,yellow
+364,580d08b5c049aef8f900007c,SQL Basics: Top 10 customers by total payments amount,['sql'],2022-10-08,Oct-22,reference,45413,11011,"['Fundamentals', 'SQL', 'Data Science']",6 kyu,yellow
+365,58094559c47d323ebd000035,SQL Basics: Simple JOIN and RANK,['sql'],2022-10-08,Oct-22,reference,57842,10965,"['SQL', 'Fundamentals']",6 kyu,yellow
+366,58113a64e10b53ec36000293,SQL Basics: Simple EXISTS,['sql'],2022-10-08,Oct-22,reference,64397,11173,"['SQL', 'Fundamentals']",6 kyu,yellow
+367,58164ddf890632ce00000220,SQL Basics: Simple HAVING ,['sql'],2022-10-08,Oct-22,reference,38401,15729,"['SQL', 'Fundamentals']",6 kyu,yellow
+368,5811315e04adbbdb5000050e,SQL Basics: Simple NULL handling,['sql'],2022-10-07,Oct-22,reference,42046,6815,"['SQL', 'Fundamentals']",6 kyu,yellow
+369,5818bde9559ff58bd90004a2,Challenge: Two actors who cast together the most,['sql'],2022-09-29,Sep-22,reference,31977,2750,"['SQL', 'Fundamentals', 'Databases']",4 kyu,blue
+370,5e5f09dc0a17be0023920f6f,Countries Capitals for Trivia Night (SQL for Beginners #6),['sql'],2022-09-24,Sep-22,reference,42037,9323,"['Fundamentals', 'SQL', 'Databases', 'Data Science']",7 kyu,white
+371,58126aa90ea99769e7000119,SQL Basics: Simple PIVOTING data,['sql'],2022-09-23,Sep-22,reference,19716,2315,"['SQL', 'Fundamentals']",5 kyu,yellow
+372,5daf515c3affec002b2fb921,Present JSON data the SQL way,['sql'],2022-09-23,Sep-22,reference,10174,917,"['SQL', 'Data Science', 'JSON']",6 kyu,yellow
+373,58241d05e7a162c5b100010f,Count Weekdays,['sql'],2022-09-23,Sep-22,reference,27544,1196,"['SQL', 'Fundamentals', 'Databases']",5 kyu,yellow
+374,58167fa1f544130dcf000317,"SQL Statistics: MIN, MEDIAN, MAX",['sql'],2022-09-23,Sep-22,reference,33399,4949,"['SQL', 'Statistics', 'Fundamentals']",5 kyu,yellow
+375,5811597e9d278beb04000038,SQL Basics: Group By Day,['sql'],2022-09-23,Sep-22,reference,29795,6269,"['SQL', 'Fundamentals']",5 kyu,yellow
+376,526989a41034285187000de4,Count IP Addresses,['sql'],2022-09-23,Sep-22,algorithms,66956,17863,['Algorithms'],5 kyu,yellow
+377,594323fde53209e94700012a,Subqueries master,['sql'],2022-09-23,Sep-22,reference,14307,1393,['Fundamentals'],6 kyu,yellow
+378,5820176255c3d23f360000a9,Using LATERAL JOIN To Get Top N per Group,['sql'],2022-09-19,Sep-22,reference,17683,1609,"['SQL', 'Fundamentals', 'Databases']",5 kyu,yellow
+379,5811527d9d278b242f000006,SQL Basics: Simple VIEW,['sql'],2022-09-19,Sep-22,reference,35335,3416,"['SQL', 'Fundamentals']",5 kyu,yellow
+380,5809575e166583acfa000083,SQL Basics: Simple table totaling.,['sql'],2022-09-19,Sep-22,reference,75906,8519,"['SQL', 'Fundamentals']",6 kyu,yellow
+381,5a8ed96bfd8c066e7f00011a,GROCERY STORE: Support Local Products,['sql'],2022-06-27,Jun-22,reference,29353,6985,"['SQL', 'Databases', 'Fundamentals']",7 kyu,white
+382,59401c25c15cbeb58d000028,SQL Basics - Trimming the Field,['sql'],2022-06-27,Jun-22,reference,36347,6169,"['Fundamentals', 'SQL']",7 kyu,white
+383,58113c03009b4fcc66000d29,SQL Basics: Simple IN,['sql'],2022-06-27,Jun-22,reference,53481,10823,"['SQL', 'Fundamentals']",6 kyu,yellow
+384,520446778469526ec0000001,Nesting Structure Comparison,['python'],2022-06-26,Jun-22,algorithms,193051,16560,"['Arrays', 'Algorithms']",4 kyu,blue
+385,580fb94e12b34dd1c40001f0,SQL Bug Fixing: Fix the JOIN,['sql'],2022-06-26,Jun-22,reference,87816,7796,"['SQL', 'Fundamentals']",6 kyu,yellow
+386,580918e24a85b05ad000010c,SQL Basics: Simple JOIN with COUNT,['sql'],2022-06-25,Jun-22,reference,61262,16153,"['SQL', 'Databases', 'Fundamentals']",7 kyu,white
+387,5629db57620258aa9d000014,Strings Mix,['python'],2022-06-24,Jun-22,reference,148824,19231,"['Fundamentals', 'Strings']",4 kyu,blue
+388,559a28007caad2ac4e000083,Perimeter of squares in a rectangle,['python'],2022-06-22,Jun-22,algorithms,113033,32472,"['Mathematics', 'Algorithms']",5 kyu,yellow
+389,550f22f4d758534c1100025a,Directions Reduction,['python'],2022-06-22,Jun-22,reference,468984,69477,['Fundamentals'],5 kyu,yellow
+390,52efefcbcdf57161d4000091,Count characters in your string,['python'],2022-06-22,Jun-22,reference,132337,58651,"['Strings', 'Fundamentals']",6 kyu,yellow
+391,54a91a4883a7de5d7800009c,String incrementer,['python'],2022-06-22,Jun-22,reference,342222,35070,"['Regular Expressions', 'Strings']",5 kyu,yellow
+392,52742f58faf5485cae000b9a,Human readable duration format,['python'],2022-06-21,Jun-22,algorithms,489859,61644,"['Strings', 'Date Time', 'Algorithms']",4 kyu,blue
+393,52685f7382004e774f0001f7,Human Readable Time,['python'],2022-06-20,Jun-22,algorithms,295553,107371,"['Date Time', 'Mathematics', 'Algorithms']",5 kyu,yellow
+394,523a86aa4230ebb5420001e1,Where my anagrams at?,['python'],2022-06-20,Jun-22,algorithms,309260,83126,"['Strings', 'Algorithms']",5 kyu,yellow
+395,51c8e37cee245da6b40000bd,Strip Comments,['python'],2022-06-19,Jun-22,algorithms,402192,41115,"['Strings', 'Algorithms']",4 kyu,blue
+396,5842df8ccbd22792a4000245,Write Number in Expanded Form,['python'],2022-06-19,Jun-22,reference,249423,58431,"['Strings', 'Mathematics', 'Algorithms', 'Fundamentals']",6 kyu,yellow
+397,5287e858c6b5a9678200083c,Does my number look big in this?,['python'],2022-06-19,Jun-22,algorithms,338962,121328,['Algorithms'],6 kyu,yellow
+398,523f5d21c841566fde000009,Array.diff,['python'],2022-06-19,Jun-22,reference,757031,207950,"['Arrays', 'Fundamentals', 'Algorithms']",6 kyu,yellow
+399,51b62bf6a9c58071c600001b,Roman Numerals Encoder,['python'],2022-06-19,Jun-22,algorithms,178431,42821,['Algorithms'],6 kyu,yellow
+400,56a5d994ac971f1ac500003e,Consecutive strings,['python'],2022-06-19,Jun-22,reference,445504,62696,['Fundamentals'],6 kyu,yellow
+401,550554fd08b86f84fe000a58,Which are  in?,['python'],2022-06-18,Jun-22,refactoring,302104,65705,"['Arrays', 'Lists', 'Strings', 'Refactoring']",6 kyu,yellow
+402,54521e9ec8e60bc4de000d6c,Maximum  subarray sum,['python'],2022-06-18,Jun-22,reference,339948,61911,"['Algorithms', 'Lists', 'Dynamic Programming', 'Fundamentals', 'Performance']",5 kyu,yellow
+403,5208f99aee097e6552000148,Break camelCase,['python'],2022-06-18,Jun-22,reference,204471,76199,"['Strings', 'Fundamentals']",6 kyu,yellow
+404,55fd2d567d94ac3bc9000064,Sum of odd numbers,['python'],2022-06-18,Jun-22,reference,336079,126377,"['Arrays', 'Lists', 'Mathematics', 'Fundamentals']",7 kyu,white
+405,55bf01e5a717a0d57e0000ec,Persistent Bugger.,['python'],2022-06-18,Jun-22,reference,527664,150608,['Fundamentals'],6 kyu,yellow
+406,55b42574ff091733d900002f,Friend or Foe?,['python'],2022-06-18,Jun-22,reference,299136,136496,['Fundamentals'],7 kyu,white
+407,5552101f47fc5178b1000050,Playing with digits,['python'],2022-06-18,Jun-22,reference,413019,108332,"['Fundamentals', 'Mathematics']",6 kyu,yellow
+408,525f50e3b73515a6db000b83,Create Phone Number,['python'],2022-06-18,Jun-22,algorithms,599818,250487,"['Arrays', 'Strings', 'Regular Expressions', 'Algorithms']",6 kyu,yellow
+409,50654ddff44f800200000004,Multiply,"['python', 'shell']",2022-06-18,Jun-22,bug_fixes,6575841,5423041,"['Debugging', 'Fundamentals']",8 kyu,white
